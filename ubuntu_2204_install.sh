@@ -9,11 +9,14 @@ sudo apt autoremove -y
 sudo apt autoclean
 
 # Create the connection between Bash and LOOM.
-# Find text in a file.
+# Find the text `LOOM` in the `.bashrc` file
 if ! grep -q LOOM ~/.bashrc; then
-  # Add the text to the document.
+  # Write a blank space in the file.
   echo "" >> ~/.bashrc
+  # Write a comment to the file.
   echo "# Connection between Bash and LOOM." >> ~/.bashrc
-  echo "LOOM_FOLDER=${PWD}" >> ~/.bashrc
+  # Write to a variable the address of LOOM in the file.
+  echo "export LOOM_FOLDER=${PWD}" >> ~/.bashrc
+  # Write read file `bashrc`.
   echo "source \${LOOM_FOLDER}/bashrc" >> ~/.bashrc
 fi
