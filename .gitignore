@@ -1,0 +1,16 @@
+# Operating systems
+Thumbs.db
+desktop.ini
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+# Editors
+.idea
+#.vscode
+rest-client.env.json
+
+# LOOM
+/temp/*
+!/temp/.empty
