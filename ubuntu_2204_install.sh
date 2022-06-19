@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Installs the necessary requirements for LOOM to work on the Ubuntu 22.04 operating system.
 
 # Update the operating system Ubuntu.

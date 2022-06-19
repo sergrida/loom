@@ -1,2 +1,2 @@
 # Alias of LOOM
-alias loom="node ${LOOM_FOLDER}/index.js"
+alias loom="${LOOM_FOLDER}/./index.sh"
