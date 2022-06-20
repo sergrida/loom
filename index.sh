@@ -25,7 +25,7 @@ RUN=(${1//./ })
 RUN_FOLDER=${LOOM_FOLDER}/commands/${RUN[0]}
 
 #€ Se ejecuta para elemento de la matriz `RUN`, sin contar el primero.
-#€ It is executed for each element of the `RUN` array, not counting the first.
+# It is executed for each element of the `RUN` array, not counting the first.
 for (( I = 1; I < ${#RUN[@]}; I ++ )); do
   #€ Agrega el elemento de la matriz `RUN` a la dirección del script que se ejecutará.
   # Adds the element of the `RUN` array to the address of the script to run.
