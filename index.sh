@@ -18,6 +18,19 @@ fi
 # With the text of the first argument cut off for every `.` it has.
 RUN=(${1//./ })
 
+abrv () {
+
+if [ $2 == 'u' ]; then
+RUN[$1]=ubuntu
+elif [ $2 == 'g' ]; then
+RUN[$1]=git
+elif [ $2 == 'n' ]; then
+RUN[$1]=node
+fi
+}
+
+abrv 0 ${RUN[0]}
+
 #€ Crea la variable de la dirección del script a ejecutar.
 #€ Con la dirección de la carpeta `commands` de la aplicación LOOM y el primer texto de la matriz `RUN`.
 # Create the variable of the address of the script to execute.
