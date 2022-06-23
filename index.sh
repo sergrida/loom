@@ -18,36 +18,36 @@ fi
 # With the text of the first argument cut off for every `.` it has.
 RUN=(${1//./ })
 
-abrv () {
-
-if [ $2 == 'u' ]; then
-RUN[$1]=ubuntu
-elif [ $2 == 'g' ]; then
-RUN[$1]=git
-elif [ $2 == 'n' ]; then
-RUN[$1]=node
-fi
-}
-
-abrv 0 ${RUN[0]}
-
 #€ Crea la variable de la dirección del script a ejecutar.
-#€ Con la dirección de la carpeta `commands` de la aplicación LOOM y el primer texto de la matriz `RUN`.
+#€ Con la dirección de la carpeta `commands` de la aplicación LOOM.
 # Create the variable of the address of the script to execute.
-# With the address of the LOOM application's `commands` folder and the first text of the `RUN` array.
-RUN_FOLDER=${LOOM_FOLDER}/commands/${RUN[0]}
+# With the address of the LOOM application's `commands` folder.
+RUN_FOLDER=${LOOM_FOLDER}/commands
 
-#€ Se ejecuta para elemento de la matriz `RUN`, sin contar el primero.
-# It is executed for each element of the `RUN` array, not counting the first.
-for (( I = 1; I < ${#RUN[@]}; I ++ )); do
-  #€ Agrega el elemento de la matriz `RUN` a la dirección del script que se ejecutará.
-  # Adds the element of the `RUN` array to the address of the script to run.
-  RUN_FOLDER=${RUN_FOLDER}/${RUN[${I}]}
+#€ Se ejecuta para cada elemento de la matriz `RUN`.
+# It is executed for each element of the `RUN` array.
+for (( I = 0; I < ${#RUN[@]}; I ++ )); do
+
+  #€ Se ejecuta por cada elemento en la dirección.
+  # It is executed for each element of the address.
+  for F in ${RUN_FOLDER}/*; do
+    #€ Lista los elementos en la dirección.
+    # list the items or folders in the address.
+    STR=${F//"${RUN_FOLDER}/"/}
+
+    #€ Si el archivo o carpeta tiene la abreviatura al principio.
+    # If the file or folder has the abbreviation at the beginning.
+    if [[ "$STR" == "${RUN[$I]}"* ]]; then
+      #€ Agrega el elemento de la matriz `RUN` a la dirección del script que se ejecutará.
+      # Adds the element of the `RUN` array to the address of the script to run.
+      RUN_FOLDER=${RUN_FOLDER}/${STR}
+      #€ Para el bucle.
+      # Stops the loop.
+      break
+    fi
+  done
+
 done
-
-#€ Agrega a la dirección de script a ejecutar la extension `sh`.
-# Add to the address of the script to execute the extension `sh`.
-RUN_FOLDER=${RUN_FOLDER}.sh
 
 #€ Si el archivo de la dirección del script a ejecutar existe.
 # If the file exists at the address of the script to execute.
