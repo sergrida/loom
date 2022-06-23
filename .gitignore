@@ -8,7 +8,7 @@ desktop.ini
 
 # Editors
 .idea
-#.vscode
+.vscode
 rest-client.env.json
 
 # LOOM
