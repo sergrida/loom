@@ -1,3 +1,3 @@
-#€ Donde esta Node.js.
-# Where is Node.js.
+#€ Donde esta Git.
+# Where is Git.
 which git

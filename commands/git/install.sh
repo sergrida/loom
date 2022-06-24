@@ -1,3 +1,3 @@
-#€ Instala el control de versiones Git.
-# Install Git version control.
+#€ Instala Git.
+# Install Git.
 sudo apt install -y git
