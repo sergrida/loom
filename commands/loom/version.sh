@@ -1,3 +1,3 @@
 #€ Versión de LOOM.
 # LOOM version.
-echo ${VERSION}
+echo ${LOOM_VERSION}

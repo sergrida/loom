@@ -5,11 +5,11 @@
 if [ -f ${LOOM_FOLDER}/.env ]; then
   #€ Lee las variables del archivo `.env`.
   # Read variables from `.env` file.
-  source .env
+  source ${LOOM_FOLDER}/.env
 else
   #€ Lee las variables del archivo `default.env`.
   # Read variables from `default.env` file.
-  source default.env
+  source ${LOOM_FOLDER}/default.env
 fi
 
 #€ Crea la matriz `RUN`.
