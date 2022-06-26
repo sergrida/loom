@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#€ Variables de LOOM.
+# LOOM variables.
+LOOM_VERSION=1.44.0
+LOOM_COMMANDS="${LOOM_FOLDER}/commands"
+
 #€ Si existe el archivo `.env`.
 # If the `.env` file exists.
 if [ -f ${LOOM_FOLDER}/.env ]; then
@@ -22,7 +27,7 @@ RUN=(${1//./ })
 #€ Con la dirección de la carpeta `commands` de la aplicación LOOM.
 # Create the variable of the address of the script to execute.
 # With the address of the LOOM application's `commands` folder.
-RUN_FOLDER=${LOOM_FOLDER}/commands
+RUN_FOLDER=${LOOM_COMMANDS}
 
 #€ Se ejecuta para cada elemento de la matriz `RUN`.
 # It is executed for each element of the `RUN` array.
