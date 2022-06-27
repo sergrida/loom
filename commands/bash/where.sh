@@ -1,5 +1,5 @@
 #€ Dónde está el comando.
-#€ Where is the command.
+# Where is the command.
 
 #€ Tiene 2 argumentos.
 #€ Y.

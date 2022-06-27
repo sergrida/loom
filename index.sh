@@ -2,7 +2,7 @@
 
 #€ Variables de LOOM.
 # LOOM variables.
-LOOM_VERSION=1.44.0
+LOOM_VERSION=1.58.0
 LOOM_COMMANDS="${LOOM_FOLDER}/commands"
 
 #€ Si existe el archivo `.env`.

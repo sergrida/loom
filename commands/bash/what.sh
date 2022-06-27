@@ -1,5 +1,5 @@
 #€ Qué es el comando.
-#€ What is the command.
+# What is the command.
 
 #€ Tiene 2 argumentos.
 #€ Y.
