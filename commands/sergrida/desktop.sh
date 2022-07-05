@@ -13,10 +13,15 @@ source ${LOOM_COMMANDS}/git/install.sh
 source ${LOOM_COMMANDS}/git/config/global.sh
 source ${LOOM_COMMANDS}/vim/install.sh
 source ${LOOM_COMMANDS}/tmux/install.sh
-source ${LOOM_COMMANDS}/vscode/install.sh
 source ${LOOM_COMMANDS}/node/install.sh
 source ${LOOM_COMMANDS}/npm/n/install.sh
 source ${LOOM_COMMANDS}/npm/n/version/change.sh
+source ${LOOM_COMMANDS}/vscode/install.sh
+source ${LOOM_COMMANDS}/diodon/install.sh
+source ${LOOM_COMMANDS}/libreoffice/install.sh
+source ${LOOM_COMMANDS}/libreoffice/lang/es.sh
+source ${LOOM_COMMANDS}/vlc/install.sh
 source ${LOOM_COMMANDS}/gimp/install.sh
 source ${LOOM_COMMANDS}/inkscape/install.sh
 source ${LOOM_COMMANDS}/blender/install.sh
+source ${LOOM_COMMANDS}/transmission/install.sh
