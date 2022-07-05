@@ -1,5 +1,4 @@
-#€ Qué es Diodon.
-# What is Diodon.
-echo -e "diodon (es)          - Diodon es un administrador de portapapeles para GNOME/GTK+ con soporte para indicador de aplicación"
-echo -e "diodon (en)          - Diodon is a clipboard manager for GNOME/GTK+ with application indicator support."
-whatis diodon
+#€ Qué es Transmission.
+# What is Transmission.
+echo -e "transmission (es)    - Transmission es un cliente P2P para la red BitTorrent."
+echo -e "transmission (en)    - Transmission is a P2P client for the BitTorrent network.

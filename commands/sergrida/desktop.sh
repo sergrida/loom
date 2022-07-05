@@ -21,6 +21,7 @@ source ${LOOM_COMMANDS}/diodon/install.sh
 source ${LOOM_COMMANDS}/libreoffice/install.sh
 source ${LOOM_COMMANDS}/libreoffice/lang/es.sh
 source ${LOOM_COMMANDS}/vlc/install.sh
+source ${LOOM_COMMANDS}/kazam/install.sh
 source ${LOOM_COMMANDS}/gimp/install.sh
 source ${LOOM_COMMANDS}/inkscape/install.sh
 source ${LOOM_COMMANDS}/blender/install.sh

@@ -1,3 +1,3 @@
-#€ Versión de Transmission.
-# Transmission version.
-transmission --version
+#€ Versión de Diodon.
+# Diodon version.
+diodon --version

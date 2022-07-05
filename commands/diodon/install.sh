@@ -1,3 +1,3 @@
-#€ Instala Transmission.
-# Install Transmission.
-sudo apt install -y transmission
+#€ Instala Diodon.
+# Install Diodon.
+sudo apt install -y diodon
