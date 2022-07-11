@@ -12,7 +12,7 @@ if [ $# -eq 3 ]; then
 
 #€ No tiene argumentos.
 # Has no arguments.
-elif [ $# -eq 0 ]; then
+elif [ $# -eq 1 ]; then
 
   #€ Configura el usuario de Git de forma global, con las variables de LOOM.
   # Configure the Git user globally, with LOOM variables.

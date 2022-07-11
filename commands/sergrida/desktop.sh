@@ -16,6 +16,7 @@ source ${LOOM_COMMANDS}/tmux/install.sh
 source ${LOOM_COMMANDS}/node/install.sh
 source ${LOOM_COMMANDS}/npm/n/install.sh
 source ${LOOM_COMMANDS}/npm/n/version/change.sh
+source ${LOOM_COMMANDS}/vscode/google/chrome/install.sh
 source ${LOOM_COMMANDS}/vscode/install.sh
 source ${LOOM_COMMANDS}/diodon/install.sh
 source ${LOOM_COMMANDS}/libreoffice/install.sh
