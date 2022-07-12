@@ -1,5 +1,5 @@
 #€ Instala aplicaciones i configura para utilizar en mi equipo de escritorio.
-# Install apps and configure to use on my desktop..
+# Install apps and configure to use on my desktop.
 
 source ${LOOM_COMMANDS}/ubuntu/update.sh
 source ${LOOM_COMMANDS}/build-essential/install.sh

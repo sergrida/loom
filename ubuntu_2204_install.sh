@@ -32,4 +32,8 @@ if ! grep -q LOOM ~/.bashrc; then
   # Write the link to `bashrc` in the `.bashrc` file.
   echo "source \${LOOM_FOLDER}/bashrc" >> ~/.bashrc
 
+  #€ Crea archivo de configuración personal de LOOM.
+  # Create LOOM personal configuration file.
+  cp \${LOOM_FOLDER}/default.env \${LOOM_FOLDER}/.env
+
 fi
