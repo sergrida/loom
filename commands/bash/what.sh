@@ -27,10 +27,10 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
 #€ Tiene 3 argumentos.
 #€ Y.
-#€ El argumento 3 es `npm`.
+#€ El argumento 2 es `npm`.
 # Has 3 arguments.
 # And.
-# Argument 3 is `npm`.
+# Argument 2 is `npm`.
 elif [ $# -eq 3 ] && [ ${2} == "npm" ]; then
 
   #€ El archivo `what` del comando existe.
@@ -39,7 +39,6 @@ elif [ $# -eq 3 ] && [ ${2} == "npm" ]; then
 
     #€ Ejecuta el script `what` del comando.
     # Execute the `what` script of the command.
-    source ${LOOM_COMMANDS}/${2}/what.sh
     source ${LOOM_COMMANDS}/npm/${3}/what.sh
 
   else

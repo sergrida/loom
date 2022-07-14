@@ -9,9 +9,21 @@
 # Argument 2 is not `bash`.
 if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
-  #€ Dónde está la aplicación indicada.
-  # Where is the application indicated.
-  which ${2}
+  #€ El archivo `where` del comando existe.
+  # The `where` file of the command exists.
+  if [[ -f "${LOOM_COMMANDS}/${2}/where.sh" ]]; then
+
+    #€ Ejecuta el script `where` del comando.
+    # Execute the `where` script of the command.
+    source ${LOOM_COMMANDS}/${2}/where.sh
+
+  else
+
+    #€ Dónde está la aplicación indicada.
+    # Where is the application indicated.
+    which ${2}
+
+  fi
 
 else
 
