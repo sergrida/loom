@@ -12,6 +12,7 @@ desktop.ini
 rest-client.env.json
 
 # LOOM
+.1003
 .env
 /temp/*
 !/temp/.empty
