@@ -1,3 +1,2 @@
-#€ Información de Blender.
-# Blender information.
-info blender
+# Información de Blender.
+info blender;

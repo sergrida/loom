@@ -1,3 +1,2 @@
-#€ Dónde está Blender.
-# Where is Blender.
-which blender
+# Dónde está Blender.
+which blender;

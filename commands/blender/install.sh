@@ -1,3 +1,2 @@
-#€ Instala Blender.
-# Install Blender.
-sudo apt install -y blender
+# Instala Blender.
+sudo apt install -y blender;

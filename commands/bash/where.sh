@@ -1,34 +1,26 @@
-#€ Dónde está el comando.
-# Where is the command.
+# Dónde está el comando.
 
-#€ Tiene 2 argumentos.
-#€ Y.
-#€ El argumento 2 no es `bash`.
-# Has 2 arguments.
-# And.
-# Argument 2 is not `bash`.
+# Tiene 2 argumentos.
+# Y.
+# El argumento 2 no es `bash`.
 if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
-  #€ El archivo `where` del comando existe.
-  # The `where` file of the command exists.
+  # El archivo `where` del comando existe.
   if [[ -f "${LOOM_COMMANDS}/${2}/where.sh" ]]; then
 
-    #€ Ejecuta el script `where` del comando.
-    # Execute the `where` script of the command.
-    source ${LOOM_COMMANDS}/${2}/where.sh
+    # Ejecuta el script `where` del comando.
+    source ${LOOM_COMMANDS}/${2}/where.sh;
 
   else
 
-    #€ Dónde está la aplicación indicada.
-    # Where is the application indicated.
-    which ${2}
+    # Dónde está la aplicación indicada.
+    which ${2};
 
   fi
 
 else
 
-  #€ Dónde está Bash.
-  # Where is Bash.
-  which bash
+  # Dónde está Bash.
+  which bash;
 
 fi

@@ -1,3 +1,2 @@
-#€ Ayuda de Blender.
-# Blender help.
-blender --help
+# Ayuda de Blender.
+blender --help;

@@ -1,3 +1,2 @@
-#€ Versión de Blender.
-# Blender version.
-blender --version
+# Versión de Blender.
+blender --version;
