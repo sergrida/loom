@@ -1,3 +1,2 @@
-#€ Ayuda de cURL.
-# cURL help.
-curl --help
+# Ayuda de cURL.
+curl --help;

@@ -1,3 +1,2 @@
-#€ Información de cURL.
-# cURL information.
-info curl
+# Información de cURL.
+info curl;

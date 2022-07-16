@@ -1,3 +1,2 @@
-#€ Información de Dconf.
-# Dconf information.
-info dconf
+# Información de Dconf.
+info dconf;

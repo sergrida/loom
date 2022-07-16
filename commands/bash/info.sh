@@ -16,11 +16,11 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
     # Información del comando.
     info ${2};
 
-  fi
+  fi;
 
 else
 
   # Información de Bash.
   info bash;
 
-fi
+fi;

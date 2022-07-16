@@ -1,3 +1,2 @@
-#€ Instala cURL.
-# Install cURL.
-sudo apt install -y curl
+# Instala cURL.
+sudo apt install -y curl;

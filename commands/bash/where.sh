@@ -16,11 +16,11 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
     # Dónde está la aplicación indicada.
     which ${2};
 
-  fi
+  fi;
 
 else
 
   # Dónde está Bash.
   which bash;
 
-fi
+fi;

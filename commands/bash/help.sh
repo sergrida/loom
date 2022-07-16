@@ -16,11 +16,11 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
     # Ayuda del comando.
     ${2} --help;
 
-  fi
+  fi;
 
 else
 
   # Ayuda de Bash.
   bash --help;
 
-fi
+fi;

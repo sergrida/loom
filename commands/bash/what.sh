@@ -16,7 +16,7 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
     # Qué es la aplicación indicada.
     whatis ${2};
 
-  fi
+  fi;
 
 # Tiene 3 argumentos.
 # Y.
@@ -34,7 +34,7 @@ elif [ $# -eq 3 ] && [ ${2} == "npm" ]; then
     # Qué es la aplicación indicada.
     echo -e "${3} (npm) \t     - $(npm view ${3} description).";
 
-  fi
+  fi;
 
 else
 
@@ -43,4 +43,4 @@ else
   echo -e "bash (en)            - GNU Bash is a command line user interface and scripting language.";
   whatis bash;
 
-fi
+fi;

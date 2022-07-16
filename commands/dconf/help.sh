@@ -1,3 +1,2 @@
-#€ Ayuda de Dconf.
-# Dconf help.
-dconf --help
+# Ayuda de Dconf.
+dconf --help;

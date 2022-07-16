@@ -1,3 +1,2 @@
-#€ Versión de cURL.
-# cURL version.
-curl --version
+# Versión de cURL.
+curl --version;

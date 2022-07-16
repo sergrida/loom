@@ -16,11 +16,11 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
     # Versión del comando indicado.
     ${2} --version;
 
-  fi
+  fi;
 
 else
 
   # Versión de Bash.
   bash --version;
 
-fi
+fi;

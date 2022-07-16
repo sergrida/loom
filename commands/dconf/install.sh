@@ -1,3 +1,2 @@
-#€ Instala Dconf.
-# Install Dconf.
-sudo apt install -y dconf
+# Instala Dconf.
+sudo apt install -y dconf;
