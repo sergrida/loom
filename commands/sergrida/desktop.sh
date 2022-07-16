@@ -18,10 +18,10 @@ source ${LOOM_COMMANDS}/npm/n/install.sh
 source ${LOOM_COMMANDS}/npm/n/version/change.sh
 source ${LOOM_COMMANDS}/google/chrome/install.sh
 source ${LOOM_COMMANDS}/vscode/install.sh
-source ${LOOM_COMMANDS}/vscode/extensions/ms-ceintl.vscode-language-pack-es/install.sh
-source ${LOOM_COMMANDS}/vscode/extensions/streetsidesoftware.code-spell-checker/install.sh
-source ${LOOM_COMMANDS}/vscode/extensions/streetsidesoftware.code-spell-checker-spanish/install.sh
-source ${LOOM_COMMANDS}/vscode/extensions/shd101wyy.markdown-preview-enhanced/install.sh
+source ${LOOM_COMMANDS}/vscode/extensions/vscode-language-pack-es/install.sh
+source ${LOOM_COMMANDS}/vscode/extensions/code-spell-checker/install.sh
+source ${LOOM_COMMANDS}/vscode/extensions/code-spell-checker-spanish/install.sh
+source ${LOOM_COMMANDS}/vscode/extensions/markdown-preview-enhanced/install.sh
 cp ${LOOM_COMMANDS}/sergrida/files/.config/Code/User/settings.json ~/.config/Code/User/settings.json
 source ${LOOM_COMMANDS}/diodon/install.sh
 source ${LOOM_COMMANDS}/libreoffice/install.sh
