@@ -34,6 +34,6 @@ if ! grep -q LOOM ~/.bashrc; then
 
   #€ Crea archivo de configuración personal de LOOM.
   # Create LOOM personal configuration file.
-  cp \${PWD}/default.env \${PWD}/.env
+  cp ${PWD}/default.env ${PWD}/.env
 
 fi
