@@ -1,3 +1,2 @@
-#€ Instala Gimp.
-# Install Gimp.
-sudo apt install -y gimp
+# Instala Gimp.
+sudo apt install -y gimp;

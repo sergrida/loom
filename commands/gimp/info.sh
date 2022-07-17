@@ -1,3 +1,2 @@
-#€ Información de Gimp.
-# Gimp information.
-info gimp
+# Información de Gimp.
+info gimp;

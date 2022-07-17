@@ -1,3 +1,2 @@
-#€ Información de Git.
-# Git information.
-info git
+# Información de Git.
+info git;

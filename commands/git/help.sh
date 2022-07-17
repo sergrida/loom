@@ -1,3 +1,2 @@
-#€ Ayuda de Git.
-# Git help.
-git --help
+# Ayuda de Git.
+git --help;

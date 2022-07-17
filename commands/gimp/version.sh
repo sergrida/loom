@@ -1,3 +1,2 @@
-#€ Versión de Gimp.
-# Gimp version.
-gimp --version
+# Versión de Gimp.
+gimp --version;

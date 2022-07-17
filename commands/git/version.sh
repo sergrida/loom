@@ -1,3 +1,2 @@
-#€ Versión de Git.
-# Git version.
-git --version
+# Versión de Git.
+git --version;

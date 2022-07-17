@@ -1,3 +1,2 @@
-#€ Ayuda de Gimp.
-# Gimp help.
-gimp --help
+# Ayuda de Gimp.
+gimp --help;
