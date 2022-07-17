@@ -1,3 +1,2 @@
-#€ Versión de Diodon.
-# Diodon version.
-diodon --version
+# Versión de Diodon.
+diodon --version;

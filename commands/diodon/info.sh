@@ -1,3 +1,2 @@
-#€ Información de Diodon.
-# Diodon information.
-info diodon
+# Información de Diodon.
+info diodon;

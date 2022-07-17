@@ -1,3 +1,2 @@
-#€ Instala Diodon.
-# Install Diodon.
-sudo apt install -y diodon
+# Instala Diodon.
+sudo apt install -y diodon;
