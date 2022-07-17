@@ -1,8 +1,6 @@
 # Ayuda del comando.
 
-# Tiene 2 argumentos.
-# Y.
-# El argumento 2 no es `bash`.
+# Si tiene 2 argumentos y el argumento 2 no es `bash`.
 if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
   # El archivo `help` del comando existe.

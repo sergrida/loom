@@ -1,8 +1,6 @@
 # Qué es el comando.
 
-# Tiene 2 argumentos.
-# Y.
-# El argumento 2 no es `bash`.
+# Si tiene 2 argumentos y el argumento 2 no es `bash`.
 if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
   # El archivo `what` del comando existe.
@@ -18,9 +16,7 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
   fi;
 
-# Tiene 3 argumentos.
-# Y.
-# El argumento 2 es `npm`.
+# Si tiene 3 argumentos y el argumento 2 es `npm`.
 elif [ $# -eq 3 ] && [ ${2} == "npm" ]; then
 
   # El archivo `what` del comando existe.
