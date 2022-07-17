@@ -1,3 +1,2 @@
-#€ Ayuda de Firefox.
-# Firefox help.
-firefox --help
+# Ayuda de Firefox.
+firefox --help;

@@ -1,3 +1,2 @@
-#€ Ayuda de Docker.
-# Docker help.
-docker --help
+# Ayuda de Docker.
+docker --help;

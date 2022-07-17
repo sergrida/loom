@@ -1,3 +1,2 @@
-#€ Versión de Docker.
-# Docker version.
-docker --version
+# Versión de Docker.
+docker --version;

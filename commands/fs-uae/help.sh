@@ -1,3 +1,2 @@
-#€ Ayuda de Unix Amiga Emulator.
-# Unix Amiga Emulator help.
-fs-uae --help
+# Ayuda de Unix Amiga Emulator.
+fs-uae --help;

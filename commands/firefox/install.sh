@@ -1,3 +1,2 @@
-#€ Instala Firefox.
-# Install Firefox.
-sudo apt install -y firefox
+# Instala Firefox.
+sudo apt install -y firefox;

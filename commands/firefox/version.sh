@@ -1,3 +1,2 @@
-#€ Versión de Firefox.
-# Firefox version.
-firefox --version
+# Versión de Firefox.
+firefox --version;

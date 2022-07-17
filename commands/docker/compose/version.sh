@@ -1,3 +1,2 @@
-#€ Versión de Docker compose.
-# Docker compose version.
-docker compose version
+# Versión de Docker compose.
+docker compose version;

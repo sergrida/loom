@@ -1,3 +1,2 @@
-#€ Dónde está Firefox.
-# Where is Firefox.
-which firefox
+# Dónde está Firefox.
+which firefox;

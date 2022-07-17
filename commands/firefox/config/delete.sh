@@ -1,3 +1,2 @@
-#@ Limpia los datos de Firefox.
-# Clean Firefox data.
-rm -rf ~/snap/firefox
+# Limpia los datos de Firefox.
+rm -rf ~/snap/firefox;

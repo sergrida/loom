@@ -1,3 +1,2 @@
-#€ Dónde está Docker.
-# Where is Docker.
-which docker
+# Dónde está Docker.
+which docker;

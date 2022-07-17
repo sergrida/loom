@@ -1,3 +1,3 @@
-#€ Información de Fail2ban.
+# Información de Fail2ban.
 # Fail2ban information.
-info fail2ban-server
+info fail2ban-server;

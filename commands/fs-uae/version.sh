@@ -1,3 +1,2 @@
-#€ Versión de Unix Amiga Emulator.
-# Unix Amiga Emulator version.
-fs-uae --version
+# Versión de Unix Amiga Emulator.
+fs-uae --version;

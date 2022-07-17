@@ -1,3 +1,2 @@
-#€ Información de Docker.
-# Docker information.
-info docker
+# Información de Docker.
+info docker;
