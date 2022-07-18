@@ -1,3 +1,2 @@
-#€ Ayuda de Inkscape.
-# Inkscape help.
-inkscape --help
+# Ayuda de Inkscape.
+inkscape --help;

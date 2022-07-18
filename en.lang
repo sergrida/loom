@@ -1,270 +1,3 @@
-# Configura el sistema para que LOOM funcione en Ubuntu 22.04.
-# Configure the system for LOOM to work on Ubuntu 22.04.
-
-# Actualiza el sistema operativo Ubuntu.
-# Update the Ubuntu operating system.
-
-# No existe el texto `LOOM` en el archivo `.bashrc`.
-# There is no `LOOM` text in the `.bashrc` file.
-
-# Escribe una nueva línea vacía en el archivo `.bashrc`.
-# Write an empty line to the `.bashrc` file.
-
-# Escribe un comentario en el archivo `.bashrc`.
-# Write a comment to the `.bashrc` file.
-
-# Escribe una variable global con la dirección de LOOM, en el archivo `.bashrc`.
-# Write a global variable with the address of LOOM to the `.bashrc` file.
-
-# Escribe la dirección del archivo `.bashrc` para leer y ejecutar su contenido.
-# Write the address of the `.bashrc` file to read and execute its contents.
-
-# Copia el archivo `default.env` con el nombre `.env`, utiliza el nuevo archivo para ingresar tu configuración personal.
-# Copy the `default.env` file with the name `.env`, use the new file to enter your personal settings.
-
-# Variables de LOOM.
-# LOOM variables.
-
-# Si existe el archivo `.env`.
-# If the `.env` file exists.
-
-# Lee las variables del archivo `.env`.
-# Read variables from `.env` file.
-
-# Lee las variables del archivo `default.env`.
-# Read variables from `default.env` file.
-
-# Matriz `LOOM_RUN`. Con el primer argumento, cortado por cada `.` que tenga.
-# `LOOM_RUN` array. With the first argument, cut off for every `.` it has.
-
-# Variable con la dirección de la carpeta `commands` de la aplicación LOOM.
-# Variable with the address of the LOOM application's `commands` folder.
-
-# Ejecuta cada elemento de la matriz `LOOM_RUN`.
-# Run each element of the `LOOM_RUN` array.
-
-# Ejecuta por cada elemento en la dirección. 
-# Executes for each element in the address.
-
-# Lista los elementos en la dirección.
-# list the items or folders in the address.
-
-# Si el archivo o carpeta tiene la abreviatura al principio.
-# If the file or folder has the abbreviation at the beginning.
-
-# Agrega el elemento de la matriz `SEARCH`.
-# Adds the array element `SEARCH`.
-
-# Para el bucle.
-# Stops the loop.
-
-# Elimina variables no requeridas.
-# Remove unneeded variables.
-
-# Si el archivo de la dirección existe.
-# If the address file exists.
-
-# Ejecuta el script.
-# Run the script.
-
-# Escribe en pantalla `LOOM no encuentra el script`.
-# Write to the screen `LOOM can't find the script`.
-
-# Alias de LOOM.
-# Alias of LOOM.
-
-# Ayuda del comando.
-# Command help.
-
-# Si tiene 2 argumentos y el argumento 2 no es `bash`.
-# If it has 2 arguments and argument 2 is not `bash`.
-
-# El archivo `help` del comando existe.
-# The `help` file of the command exists.
-
-# Ejecuta el script `help` del comando.
-# Execute the `help` script of the command.
-
-# Ayuda de Bash.
-# Bash help.
-
-# Información del comando.
-# Command information.
-
-# El archivo `info` del comando existe.
-# The `info` file of the command exists.
-
-# Ejecuta el script `info` del comando.
-# Execute the `info` script of the command.
-
-# Información de Bash.
-# Bash information.
-
-# Versión del comando.
-# Command version.
-
-# El archivo `version` del comando existe.
-# The `version` file of the command exists.
-
-# Ejecuta el script `version` del comando.
-# Execute the `version` script of the command.
-
-# Versión del comando indicado.
-# Version of the indicated command.
-
-# Versión de Bash.
-# Bash version.
-
-# Qué es el comando.
-# What is the command.
-
-# El archivo `what` del comando existe.
-# The `what` file of the command exists.
-
-# Ejecuta el script `what` del comando.
-# Execute the `what` script of the command.
-
-# Qué es la aplicación indicada.
-# What is the application indicated.
-
-# Si tiene 3 argumentos y el argumento 2 es `npm`.
-# If it has 3 arguments and argument 2 is `npm`.
-
-# Qué es la aplicación indicada.
-# What is the application indicated.
-
-# Qué es Bash.
-# What is Bash.
-
-# Dónde está el comando.
-# Where is the command.
-
-# El archivo `where` del comando existe.
-# The command `where` file exists.
-
-# Ejecuta el script `where` del comando.
-# Execute the `where` script of the command.
-
-# Dónde está la aplicación indicada.
-# Where is the application indicated.
-
-# Dónde está Bash.
-# Where is Bash.
-
-# Bash en la World Wide Web.
-# Bash on the World Wide Web.
-
-# Ayuda de Blender.
-# Blender help.
-
-# Información de Blender.
-# Blender information.
-
-# Instala Blender.
-# Install Blender.
-
-# Versión de Blender.
-# Blender version.
-
-# Qué es Blender.
-# What is Blender.
-
-# Dónde está Blender.
-# Where is Blender.
-
-# Blender en la World Wide Web.
-# Blender on the World Wide Web.
-
-# Instala GNU Compiler Collection.
-# Install the GNU Compiler Collection.
-
-# Qué es GNU Compiler Collection.
-# What is GNU Compiler Collection.
-
-# GNU Compiler Collection en la World Wide Web.
-# GNU Compiler Collection on the World Wide Web.
-
-# Ayuda de cURL.
-# cURL help.
-
-# Información de cURL.
-# cURL information.
-
-# Instala cURL.
-# Install cURL.
-
-# Versión de cURL.
-# cURL version.
-
-# Qué es cURL.
-# What is cURL.
-
-# Dónde está cURL.
-# Where is cURL.
-
-# cURL en la World Wide Web.
-# cURL on the World Wide Web.
-
-# Instala Dconf editor.
-# Install Dconf editor.
-
-# Exporta configuración de GNOME.
-# Export GNOME configuration.
-
-# Tiene 2 argumentos.
-# Has 2 arguments.
-
-# Indicando el nombre del archivo.
-# Indicating the file name.
-
-# En la carpeta por defecto.
-# In the default folder.
-
-# Ayuda de Dconf.
-# Dconf help.
-
-# Importa configuración de GNOME.
-# Import GNOME configuration.
-
-# Indica la dirección del archivo.
-# Indicates the file address.
-
-# Información de Dconf.
-# Dconf information.
-
-# Instala Dconf.
-# Install Dconf.
-
-# Qué es Dconf.
-# What is Dconf.
-
-# Dónde está Dconf.
-# Where is Dconf.
-
-# Dconf en la World Wide Web.
-# Dconf on the World Wide Web.
-
-# Ayuda de Diodon.
-# Diodon help.
-
-# Información de Diodon.
-# Diodon information.
-
-# Instala Diodon.
-# Install Diodon.
-
-# Versión de Diodon.
-# Diodon version.
-
-# Qué es Diodon.
-# What is Diodon.
-
-# Dónde está Diodon.
-# Where is Diodon.
-
-# Diodon en la World Wide Web.
-# Diodon on the World Wide Web.
-
 # Instala Docker Compose.
 # Install Docker Compose.
 
@@ -423,3 +156,88 @@
 
 # Git en la World Wide Web.
 # Git on the World Wide Web.
+
+# Ayuda de Google Chorme.
+# Google Chorme help.
+
+# Información de Google Chorme.
+# Google Chorme information.
+
+# Instala Google Chorme.
+# Install Google Chorme.
+
+# Versión de Google Chorme.
+# Google Chorme version.
+
+# Qué es Google Chorme.
+# What is Google Chorme.
+
+# Dónde está Google Chorme.
+# Where is Google Chorme.
+
+# Google Chorme en la World Wide Web.
+# Google Chorme on the World Wide Web.
+
+# Ayuda de Inkscape.
+# Inkscape help.
+
+# Información de Inkscape.
+# Inkscape information.
+
+# Instala Inkscape.
+# Install Inkscape.
+
+# Versión de Inkscape.
+# Inkscape version.
+
+# Qué es Inkscape.
+# What is Inkscape.
+
+# Dónde está Inkscape.
+# Where is Inkscape.
+
+# Inkscape en la World Wide Web.
+# Inkscape on the World Wide Web.
+
+# Ayuda de Java.
+# Java help.
+
+# Información de Java.
+# Java information.
+
+# Instala Java.
+# Install Java.
+
+# Versión de Java.
+# Java version.
+
+# Qué es Java.
+# What is Java.
+
+# Dónde está Java.
+# Where is Java.
+
+# Java en la World Wide Web.
+# Java on the World Wide Web.
+
+# Ayuda de Kazam.
+# Kazam help.
+
+# Información de Kazam.
+# Kazam information.
+
+# Versión de Kazam.
+# Kazam version.
+
+# Instala Kazam.
+# Install Kazam.
+
+# Qué es Kazam.
+# What is Kazam.
+
+# Dónde está Kazam.
+# Where is Kazam.
+
+# Kazam en la World Wide Web.
+# Kazam on the World Wide Web.
+

@@ -1,3 +1,2 @@
-#€ Información de Kazam.
-# Kazam information.
-info kazam
+# Información de Kazam.
+info kazam;

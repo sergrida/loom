@@ -1,3 +1,2 @@
-#€ Versión de Java.
-# Java version.
-java --version
+# Versión de Java.
+java --version;

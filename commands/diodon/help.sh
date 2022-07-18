@@ -1,2 +1,3 @@
-# Ayuda de Diodon.
+#es Ayuda de Diodon.
+#en Diodon help.
 diodon --help;

@@ -1,3 +1,2 @@
-#€ Versión de Kazam.
-# Kazam version.
-kazam --version
+# Versión de Kazam.
+kazam --version;

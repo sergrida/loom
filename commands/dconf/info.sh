@@ -1,2 +1,3 @@
-# Información de Dconf.
+#@es Información de Dconf.
+#@en Dconf information.
 info dconf;

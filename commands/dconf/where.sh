@@ -1,2 +1,3 @@
-# Dónde está Dconf.
+#@es Dónde está Dconf.
+#@en Where is Dconf.
 which dconf;

@@ -1,3 +1,2 @@
-#€ Versión de Inkscape.
-# Inkscape version.
-inkscape --version
+# Versión de Inkscape.
+inkscape --version;

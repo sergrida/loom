@@ -1,3 +1,3 @@
-#€ Dónde está LibreOffice.
-# Where is LibreOffice.
-which libreoffice
+#@es Dónde está LibreOffice.
+#@en Where is LibreOffice.
+which libreoffice;

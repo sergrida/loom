@@ -1,3 +1,2 @@
-#€ Información de Google Chorme.
-# Google Chorme information.
-info google-chrome
+# Información de Google Chorme.
+info google-chrome;

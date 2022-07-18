@@ -1,3 +1,2 @@
-#€ Ayuda de Google Chorme.
-# Google Chorme help.
-google-chrome --help
+# Ayuda de Google Chorme.
+google-chrome --help;

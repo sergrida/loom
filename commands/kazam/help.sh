@@ -1,3 +1,2 @@
-#€ Ayuda de Kazam.
-# Kazam help.
-kazam --help
+# Ayuda de Kazam.
+kazam --help;

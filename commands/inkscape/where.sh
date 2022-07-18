@@ -1,3 +1,2 @@
-#€ Dónde está Inkscape.
-# Where is Inkscape.
-which inkscape
+# Dónde está Inkscape.
+which inkscape;

@@ -1,3 +1,2 @@
-#€ Información de Inkscape.
-# Inkscape information.
-info inkscape
+# Información de Inkscape.
+info inkscape;

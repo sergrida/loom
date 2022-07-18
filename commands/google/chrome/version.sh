@@ -1,3 +1,2 @@
-#€ Versión de Google Chorme.
-# Google Chorme version.
-google-chrome --version
+# Versión de Google Chorme.
+google-chrome --version;

@@ -1,3 +1,2 @@
-#€ Información de Java.
-# Java information.
-info java
+# Información de Java.
+info java;

@@ -1,3 +1,2 @@
-#€ Ayuda de Java.
-# Java help.
-java --help
+# Ayuda de Java.
+java --help;

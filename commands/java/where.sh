@@ -1,3 +1,2 @@
-#€ Dónde está Java.
-# Where is Java.
-which java
+# Dónde está Java.
+which java;
