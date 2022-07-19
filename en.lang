@@ -1,243 +1,209 @@
-# Instala Docker Compose.
-# Install Docker Compose.
+#@es Ayuda de Fail2ban.
+#@en Fail2ban help.
 
-# Versión de Docker compose.
-# Docker compose version.
+#@es Información de Fail2ban.
+#@en Fail2ban information.
 
-# Qué es Docker Compose.
-# What is Docker Compose.
+#@es Instala Fail2ban.
+#@en Install Fail2ban.
 
-# Docker Compose en la World Wide Web.
-# Docker Compose on the World Wide Web.
+#@es Versión de Fail2ban.
+#@en Fail2ban version.
 
-# Ayuda de Docker.
-# Docker help.
+#@es Qué es Fail2ban.
+#@en What is Fail2ban.
 
-# Información de Docker.
-# Docker information.
+#@es Dónde está Fail2ban.
+#@en Where is Fail2ban.
 
-# Instala Docker.
-# Install Docker.
+#@es Fail2ban en la World Wide Web.
+#@en Fail2ban on the World Wide Web.
 
-# Versión de Docker.
-# Docker version.
+#@es Ayuda de Firefox.
+#@en Firefox help.
 
-# Qué es Docker.
-# What is Docker.
+#@es Instala Firefox.
+#@en Install Firefox.
 
-# Dónde está Docker.
-# Where is Docker.
+#@es Versión de Firefox.
+#@en Firefox version.
 
-# Docker en la World Wide Web.
-# Docker on the World Wide Web.
+#@es Qué es Firefox.
+#@en What is Firefox.
 
-# Ayuda de Fail2ban.
-# Fail2ban help.
+#@es Dónde está Firefox.
+#@en Where is Firefox.
 
-# Información de Fail2ban.
-# Fail2ban information.
+#@es Firefox en la World Wide Web.
+#@en Firefox on the World Wide Web.
 
-# Instala Fail2ban.
-# Install Fail2ban.
+#@es Limpia los datos de Firefox.
+#@en Clean Firefox data.
 
-# Versión de Fail2ban.
-# Fail2ban version.
+#@es Ayuda de Unix Amiga Emulator.
+#@en Unix Amiga Emulator help.
 
-# Qué es Fail2ban.
-# What is Fail2ban.
+#@es Instala Unix Amiga Emulator.
+#@en Install Unix Amiga Emulator.
 
-# Dónde está Fail2ban.
-# Where is Fail2ban.
+#@es Versión de Unix Amiga Emulator.
+#@en Unix Amiga Emulator version.
 
-# Fail2ban en la World Wide Web.
-# Fail2ban on the World Wide Web.
+#@es Qué es Unix Amiga Emulator.
+#@en What is Unix Amiga Emulator.
 
-# Ayuda de Firefox.
-# Firefox help.
+#@es Dónde está Unix Amiga Emulator.
+#@en Where is Unix Amiga Emulator.
 
-# Instala Firefox.
-# Install Firefox.
+#@es Unix Amiga Emulator en la World Wide Web.
+#@en Unix Amiga Emulator on the World Wide Web.
 
-# Versión de Firefox.
-# Firefox version.
+#@es Ayuda de Gimp.
+#@en Gimp help.
 
-# Qué es Firefox.
-# What is Firefox.
+#@es Información de Gimp.
+#@en Gimp information.
 
-# Dónde está Firefox.
-# Where is Firefox.
+#@es Instala Gimp.
+#@en Install Gimp.
 
-# Firefox en la World Wide Web.
-# Firefox on the World Wide Web.
+#@es Versión de Gimp.
+#@en Gimp version.
 
-# Limpia los datos de Firefox.
-# Clean Firefox data.
+#@es Qué es Gimp.
+#@en What is Gimp.
 
-# Ayuda de Unix Amiga Emulator.
-# Unix Amiga Emulator help.
+#@es Dónde está Gimp.
+#@en Where is Gimp.
 
-# Instala Unix Amiga Emulator.
-# Install Unix Amiga Emulator.
+#@es Gimp en la World Wide Web.
+#@en Gimp on the World Wide Web.
 
-# Versión de Unix Amiga Emulator.
-# Unix Amiga Emulator version.
+#@es Configura el usuario de Git de forma global.
+#@en Configure the Git user globally.
 
-# Qué es Unix Amiga Emulator.
-# What is Unix Amiga Emulator.
+#@es Tiene 3 argumentos.
+#@en Has 3 arguments.
 
-# Dónde está Unix Amiga Emulator.
-# Where is Unix Amiga Emulator.
+#@es Configura el usuario de Git de forma global, con los argumentos recibidos.
+#@en Configure the Git user globally, with the arguments received.
 
-# Unix Amiga Emulator en la World Wide Web.
-# Unix Amiga Emulator on the World Wide Web.
+#@es No tiene argumentos.
+#@en Has no arguments.
 
-# Ayuda de Gimp.
-# Gimp help.
+#@es Configura el usuario de Git de forma global, con las variables de LOOM.
+#@en Configure the Git user globally, with LOOM variables.
 
-# Información de Gimp.
-# Gimp information.
+#@es Configura el usuario de Git de forma local.
+#@en Configure the Git user locally.
 
-# Instala Gimp.
-# Install Gimp.
+#@es Configura el usuario de Git de forma local, con los argumentos recibidos.
+#@en Configure the Git user locally, with the arguments receive
 
-# Versión de Gimp.
-# Gimp version.
+#@es Configura el usuario de Git de forma local, con las variables de LOOM.
+#@en Configure the Git user locally, with LOOM variables.
 
-# Qué es Gimp.
-# What is Gimp.
+#@es Ayuda de Git.
+#@en Git help.
 
-# Dónde está Gimp.
-# Where is Gimp.
+#@es Información de Git.
+#@en Git information.
 
-# Gimp en la World Wide Web.
-# Gimp on the World Wide Web.
+#@es Instala Git.
+#@en Install Git.
 
-# Configura el usuario de Git de forma global.
-# Configure the Git user globally.
+#@es Versión de Git.
+#@en Git version.
 
-# Tiene 3 argumentos.
-# Has 3 arguments.
+#@es Qué es Git.
+#@en What is Git.
 
-# Configura el usuario de Git de forma global, con los argumentos recibidos.
-# Configure the Git user globally, with the arguments received.
+#@es Donde esta Git.
+#@en Where is Git.
 
-# No tiene argumentos.
-# Has no arguments.
+#@es Git en la World Wide Web.
+#@en Git on the World Wide Web.
 
-# Configura el usuario de Git de forma global, con las variables de LOOM.
-# Configure the Git user globally, with LOOM variables.
+#@es Ayuda de Google Chorme.
+#@en Google Chorme help.
 
-# Configura el usuario de Git de forma local.
-# Configure the Git user locally.
+#@es Información de Google Chorme.
+#@en Google Chorme information.
 
-# Configura el usuario de Git de forma local, con los argumentos recibidos.
-# Configure the Git user locally, with the arguments receive
+#@es Instala Google Chorme.
+#@en Install Google Chorme.
 
-# Configura el usuario de Git de forma local, con las variables de LOOM.
-# Configure the Git user locally, with LOOM variables.
+#@es Versión de Google Chorme.
+#@en Google Chorme version.
 
-# Ayuda de Git.
-# Git help.
+#@es Qué es Google Chorme.
+#@en What is Google Chorme.
 
-# Información de Git.
-# Git information.
+#@es Dónde está Google Chorme.
+#@en Where is Google Chorme.
 
-# Instala Git.
-# Install Git.
+#@es Google Chorme en la World Wide Web.
+#@en Google Chorme on the World Wide Web.
 
-# Versión de Git.
-# Git version.
+#@es Ayuda de Inkscape.
+#@en Inkscape help.
 
-# Qué es Git.
-# What is Git.
+#@es Información de Inkscape.
+#@en Inkscape information.
 
-# Donde esta Git.
-# Where is Git.
+#@es Instala Inkscape.
+#@en Install Inkscape.
 
-# Git en la World Wide Web.
-# Git on the World Wide Web.
+#@es Versión de Inkscape.
+#@en Inkscape version.
 
-# Ayuda de Google Chorme.
-# Google Chorme help.
+#@es Qué es Inkscape.
+#@en What is Inkscape.
 
-# Información de Google Chorme.
-# Google Chorme information.
+#@es Dónde está Inkscape.
+#@en Where is Inkscape.
 
-# Instala Google Chorme.
-# Install Google Chorme.
+#@es Inkscape en la World Wide Web.
+#@en Inkscape on the World Wide Web.
 
-# Versión de Google Chorme.
-# Google Chorme version.
+#@es Ayuda de Java.
+#@en Java help.
 
-# Qué es Google Chorme.
-# What is Google Chorme.
+#@es Información de Java.
+#@en Java information.
 
-# Dónde está Google Chorme.
-# Where is Google Chorme.
+#@es Instala Java.
+#@en Install Java.
 
-# Google Chorme en la World Wide Web.
-# Google Chorme on the World Wide Web.
+#@es Versión de Java.
+#@en Java version.
 
-# Ayuda de Inkscape.
-# Inkscape help.
+#@es Qué es Java.
+#@en What is Java.
 
-# Información de Inkscape.
-# Inkscape information.
+#@es Dónde está Java.
+#@en Where is Java.
 
-# Instala Inkscape.
-# Install Inkscape.
+#@es Java en la World Wide Web.
+#@en Java on the World Wide Web.
 
-# Versión de Inkscape.
-# Inkscape version.
+#@es Ayuda de Kazam.
+#@en Kazam help.
 
-# Qué es Inkscape.
-# What is Inkscape.
+#@es Información de Kazam.
+#@en Kazam information.
 
-# Dónde está Inkscape.
-# Where is Inkscape.
+#@es Versión de Kazam.
+#@en Kazam version.
 
-# Inkscape en la World Wide Web.
-# Inkscape on the World Wide Web.
+#@es Instala Kazam.
+#@en Install Kazam.
 
-# Ayuda de Java.
-# Java help.
+#@es Qué es Kazam.
+#@en What is Kazam.
 
-# Información de Java.
-# Java information.
+#@es Dónde está Kazam.
+#@en Where is Kazam.
 
-# Instala Java.
-# Install Java.
-
-# Versión de Java.
-# Java version.
-
-# Qué es Java.
-# What is Java.
-
-# Dónde está Java.
-# Where is Java.
-
-# Java en la World Wide Web.
-# Java on the World Wide Web.
-
-# Ayuda de Kazam.
-# Kazam help.
-
-# Información de Kazam.
-# Kazam information.
-
-# Versión de Kazam.
-# Kazam version.
-
-# Instala Kazam.
-# Install Kazam.
-
-# Qué es Kazam.
-# What is Kazam.
-
-# Dónde está Kazam.
-# Where is Kazam.
-
-# Kazam en la World Wide Web.
-# Kazam on the World Wide Web.
-
+#@es Kazam en la World Wide Web.
+#@en Kazam on the World Wide Web.

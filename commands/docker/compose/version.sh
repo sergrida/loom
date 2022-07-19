@@ -1,2 +1,3 @@
-# Versión de Docker compose.
+#@es Versión de Docker compose.
+#@en Docker compose version.
 docker compose version;
