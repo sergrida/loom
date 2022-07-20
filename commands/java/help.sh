@@ -1,2 +1,3 @@
-# Ayuda de Java.
+#@es Ayuda de Java.
+#@en Java help.
 java --help;

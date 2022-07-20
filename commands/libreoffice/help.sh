@@ -1,3 +1,3 @@
-#€ Ayuda de LibreOffice.
-# LibreOffice help.
-libreoffice --help
+#@es Ayuda de LibreOffice.
+#@en LibreOffice help.
+libreoffice --help;

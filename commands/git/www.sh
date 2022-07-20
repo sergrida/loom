@@ -1,4 +1,5 @@
-# Git en la World Wide Web.
+#@es Git en la World Wide Web.
+#@en Git on the World Wide Web.
 echo "official website     - http://git-scm.com/";
 echo "blog                 - https://git-blame.blogspot.com/";
 echo "wikipedia            - https://es.wikipedia.org/wiki/Git";

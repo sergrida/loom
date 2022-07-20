@@ -1,2 +1,3 @@
-# Información de Kazam.
+#@es Información de Kazam.
+#@en Kazam information.
 info kazam;

@@ -1,3 +1,3 @@
-#€ Donde esta Node.js.
-# Where is Node.js.
-which node
+#@es Donde esta Node.js.
+#@en Where is Node.js.
+which node;

@@ -1,3 +1,3 @@
-#€ Información de Node.js.
-# Node.js information.
-info node
+#@es Información de Node.js.
+#@en Node.js information.
+info node;

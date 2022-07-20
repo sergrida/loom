@@ -1,3 +1,3 @@
-#€ Versión de LibreOffice.
-# LibreOffice version.
-libreoffice --version
+#@es Versión de LibreOffice.
+#@en LibreOffice version.
+libreoffice --version;

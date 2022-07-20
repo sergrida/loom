@@ -1,3 +1,3 @@
-#€ Versión de Node.js.
-# Node.js version.
-git --version
+#@es Versión de Node.js.
+#@en Node.js version.
+git --version;
