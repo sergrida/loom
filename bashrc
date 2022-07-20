@@ -1,6 +1,7 @@
 #@es Alias de LOOM.
 #@en Alias of LOOM.
 alias loom="${LOOM_FOLDER}/./index.sh"
+alias l="${LOOM_FOLDER}/./index.sh"
 alias ł="${LOOM_FOLDER}/./index.sh"
 
 alias ..='cd ..'
