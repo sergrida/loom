@@ -1,3 +1,3 @@
-#€ Instala de n de npm.
-# Install n from npm.
+#@es Instala de n de npm.
+#@en Install n from npm.
 sudo npm install --location=global n

@@ -1,3 +1,3 @@
-#€ Versión de VLC media player.
-# VLC media player version.
+#@es Versión de VLC media player.
+#@en VLC media player version.
 vlc --version

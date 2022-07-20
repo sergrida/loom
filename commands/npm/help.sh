@@ -1,3 +1,3 @@
-#€ Ayuda de npm.
-# npm help.
+#@es Ayuda de npm.
+#@ennpm help.
 npm --help

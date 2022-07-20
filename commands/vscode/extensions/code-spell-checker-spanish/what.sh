@@ -1,4 +1,4 @@
-#€ Qué es Code Spell Checker Español.
-# What is Code Spell Checker Spanish.
+#@es Qué es Code Spell Checker Español.
+#@en What is Code Spell Checker Spanish.
 echo -e "code-spell-checker-spanish (es) - Complemento en español para Code Spell Checker."
 echo -e "code-spell-checker-spanish - Spanish Add-On for Code Spell Checker.

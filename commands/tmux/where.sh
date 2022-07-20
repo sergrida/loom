@@ -1,3 +1,3 @@
-#€ Dónde está tmux.
-# Where is tmux.
+#@es Dónde está tmux.
+#@en Where is tmux.
 which tmux

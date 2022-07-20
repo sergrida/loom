@@ -1,3 +1,3 @@
-#€ Ayuda de Rar.
-# Rar help.
+#@es Ayuda de Rar.
+#@en Rar help.
 rar --help

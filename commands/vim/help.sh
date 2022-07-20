@@ -1,3 +1,3 @@
-#€ Ayuda de Vim.
-# Vim help.
+#@es Ayuda de Vim.
+#@en Vim help.
 vim --help

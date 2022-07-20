@@ -1,3 +1,3 @@
-#€ Información de tmux.
-# tmux information.
+#@es Información de tmux.
+#@en tmux information.
 info tmux

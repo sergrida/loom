@@ -11,19 +11,19 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
     #@es Ejecuta el script `version` del comando.
     #@en Execute the `version` script of the command.
-    source ${LOOM_COMMANDS}/${2}/version.sh;
+    source ${LOOM_COMMANDS}/${2}/version.sh
 
   else
 
     #@es Versión del comando indicado.
     #@en Version of the indicated command.
-    ${2} --version;
+    ${2} --version
 
-  fi;
+  fi
 
 else
 
   # Versión de Bash.
-  bash --version;
+  bash --version
 
-fi;
+fi

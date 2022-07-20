@@ -1,3 +1,3 @@
-#€ Dónde está Rar.
-# Where is Rar.
+#@es Dónde está Rar.
+#@en Where is Rar.
 which rar

@@ -1,3 +1,3 @@
-#€ Ayuda de OpenSSH.
-# OpenSSH help.
+#@es Ayuda de OpenSSH.
+#@en OpenSSH help.
 openssh --help

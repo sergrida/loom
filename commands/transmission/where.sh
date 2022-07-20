@@ -1,3 +1,3 @@
-#€ Dónde está Transmission.
-# Where is Transmission.
+#@es Dónde está Transmission.
+#@en Where is Transmission.
 which transmission

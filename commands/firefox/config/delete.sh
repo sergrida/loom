@@ -1,3 +1,3 @@
 #@es Limpia los datos de Firefox.
 #@en Clean Firefox data.
-rm -rf ~/snap/firefox;
+rm -rf ~/snap/firefox

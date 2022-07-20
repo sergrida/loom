@@ -1,3 +1,3 @@
-#€ Dónde está npm.
-# Where is npm.
+#@es Dónde está npm.
+#@en Where is npm.
 which npm

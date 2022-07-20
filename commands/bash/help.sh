@@ -11,20 +11,20 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
     #@es Ejecuta el script `help` del comando.
     #@en Execute the `help` script of the command.
-    source ${LOOM_COMMANDS}/${2}/help.sh;
+    source ${LOOM_COMMANDS}/${2}/help.sh
 
   else
 
     #@es Ayuda del comando.
     #@en Command help.
-    ${2} --help;
+    ${2} --help
 
-  fi;
+  fi
 
 else
 
   #@es Ayuda de Bash.
   #@en Bash help.
-  bash --help;
+  bash --help
 
-fi;
+fi

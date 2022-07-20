@@ -1,3 +1,3 @@
-#€ Versión de OpenSSH.
-# OpenSSH version.
+#@es Versión de OpenSSH.
+#@en OpenSSH version.
 openssh --version

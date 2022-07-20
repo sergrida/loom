@@ -11,20 +11,20 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
     #@es Ejecuta el script `info` del comando.
     #@en Execute the `info` script of the command.
-    source ${LOOM_COMMANDS}/${2}/info.sh;
+    source ${LOOM_COMMANDS}/${2}/info.sh
 
   else
 
     #@es Información del comando.
     #@en Command information.
-    info ${2};
+    info ${2}
 
-  fi;
+  fi
 
 else
 
   #@es Información de Bash.
   #@en Bash information.
-  info bash;
+  info bash
 
-fi;
+fi

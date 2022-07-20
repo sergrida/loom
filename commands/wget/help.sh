@@ -1,3 +1,3 @@
-#€ Ayuda de Wget.
-# Wget help.
+#@es Ayuda de Wget.
+#@en Wget help.
 wget --help

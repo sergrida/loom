@@ -1,3 +1,3 @@
-#€ Dónde está Visual Studio Code.
-# Where is Visual Studio Code.
+#@es Dónde está Visual Studio Code.
+#@en Where is Visual Studio Code.
 which code

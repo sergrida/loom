@@ -1,3 +1,3 @@
-#€ Información de Rar.
-# Rar information.
+#@es Información de Rar.
+#@en Rar information.
 info rar

@@ -1,3 +1,3 @@
-#€ Dónde está Vim.
-# Where is Vim.
+#@es Dónde está Vim.
+#@en Where is Vim.
 which vim

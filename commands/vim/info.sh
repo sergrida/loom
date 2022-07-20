@@ -1,3 +1,3 @@
-#€ Información de Vim.
-# Vim information.
+#@es Información de Vim.
+#@en Vim information.
 info vim

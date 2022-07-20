@@ -1,3 +1,3 @@
-#€ Dónde está OpenSSH.
-# Where is OpenSSH.
+#@es Dónde está OpenSSH.
+#@en Where is OpenSSH.
 which openssh

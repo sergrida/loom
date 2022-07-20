@@ -1,3 +1,3 @@
-#€ Dónde está 7-Zip.
-# Where is 7-Zip.
+#@es Dónde está 7-Zip.
+#@en Where is 7-Zip.
 which p7zip

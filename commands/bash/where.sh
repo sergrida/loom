@@ -11,20 +11,20 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
 
     #@es Ejecuta el script `where` del comando.
     #@en Execute the `where` script of the command.
-    source ${LOOM_COMMANDS}/${2}/where.sh;
+    source ${LOOM_COMMANDS}/${2}/where.sh
 
   else
 
     #@es Dónde está la aplicación indicada.
     #@en Where is the application indicated.
-    which ${2};
+    which ${2}
 
-  fi;
+  fi
 
 else
 
   #@es Dónde está Bash.
   #@en Where is Bash.
-  which bash;
+  which bash
 
-fi;
+fi

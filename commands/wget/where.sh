@@ -1,3 +1,3 @@
-#€ Dónde está Wget.
-# Where is Wget.
+#@es Dónde está Wget.
+#@en Where is Wget.
 which wget

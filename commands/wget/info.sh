@@ -1,3 +1,3 @@
-#€ Información de Wget.
-# Wget information.
+#@es Información de Wget.
+#@en Wget information.
 info wget

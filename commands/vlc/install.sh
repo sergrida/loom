@@ -1,3 +1,3 @@
-#€ Instala VLC media player.
-# Install VLC media player.
+#@es Instala VLC media player.
+#@en Install VLC media player.
 sudo apt install -y vlc

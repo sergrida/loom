@@ -1,3 +1,3 @@
-#€ Versión de n de npm.
-# Version of n from npm.
+#@es Versión de n de npm.
+#@en Version of n from npm.
 npm info n version
