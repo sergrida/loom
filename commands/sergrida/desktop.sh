@@ -5,6 +5,7 @@ source ${LOOM_COMMANDS}/ubuntu/update.sh
 source ${LOOM_COMMANDS}/build-essential/install.sh
 source ${LOOM_COMMANDS}/wget/install.sh
 source ${LOOM_COMMANDS}/curl/install.sh
+source ${LOOM_COMMANDS}/python/install.sh
 source ${LOOM_COMMANDS}/openssh/install.sh
 source ${LOOM_COMMANDS}/fail2ban/install.sh
 source ${LOOM_COMMANDS}/rar/install.sh
@@ -16,6 +17,8 @@ source ${LOOM_COMMANDS}/tmux/install.sh
 source ${LOOM_COMMANDS}/node/install.sh
 source ${LOOM_COMMANDS}/npm/n/install.sh
 source ${LOOM_COMMANDS}/npm/n/version/change.sh
+source ${LOOM_COMMANDS}/docker/install.sh
+source ${LOOM_COMMANDS}/docker/compose/install.sh
 source ${LOOM_COMMANDS}/google/chrome/install.sh
 source ${LOOM_COMMANDS}/vscode/install.sh
 source ${LOOM_COMMANDS}/vscode/extensions/vscode-language-pack-es/install.sh
