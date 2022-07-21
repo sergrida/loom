@@ -1,9 +1,9 @@
 #@es Información del comando.
 #@en Command information.
 
-#@es Si tiene 2 argumentos y el argumento 2 no es `bash`.
-#@en If it has 2 arguments and argument 2 is not `bash`.
-if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
+#@es Si tiene 2 argumentos.
+#@en If it has 2 arguments.
+if [ $# -eq 2 ]; then
 
   #@es El archivo `info` del comando existe.
   #@en The `info` file of the command exists.
@@ -20,11 +20,5 @@ if [ $# -eq 2 ] && [ ${2} != "bash" ]; then
     info ${2}
 
   fi
-
-else
-
-  #@es Información de Bash.
-  #@en Bash information.
-  info bash
 
 fi
