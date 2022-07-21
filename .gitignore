@@ -1,4 +1,5 @@
-# Operating systems
+#@es Sistema operativo.
+#@en Operating systems.
 Thumbs.db
 desktop.ini
 .DS_Store
@@ -6,13 +7,14 @@ desktop.ini
 .Trashes
 ._*
 
-# Editors
+#@es Editores.
+#@en Editors.
 .idea
 .vscode
 rest-client.env.json
 
-# LOOM
-.1003
+#@es LOOM.
+#@en LOOM.
 .env
 /temp/*
 !/temp/.empty
