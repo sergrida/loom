@@ -1,10 +1,5 @@
 #!/bin/bash
 
-#@es Variables de LOOM.
-#@en LOOM variables.
-LOOM_VERSION=1.58.0
-LOOM_COMMANDS="${LOOM_FOLDER}/commands"
-
 #@es Si existe el archivo `.env`.
 #@en If the `.env` file exists.
 if [ -f ${LOOM_FOLDER}/.env ]; then
@@ -67,9 +62,37 @@ unset SEARCH, SCRIPT
 #@en If the address file exists.
 if [ -f ${SCRIPT_RUN} ]; then
 
-  #@es Ejecuta el script.
-  #@en Run the script.
-  source ${SCRIPT_RUN}
+  #@es Si el script tiene la extensión `js`.
+  #@en If the script has the extension `js`.
+  if [[ "$SCRIPT_RUN" == *".js" ]]; then
+
+    #@es Ejecuta el script con Node.js.
+    #@en Run the script with Node.js.
+    node ${SCRIPT_RUN} "$@"
+
+  #@es Si el script tiene la extensión `py`.
+  #@en If the script has the extension `py`.
+  elif [[ "$SCRIPT_RUN" == *".py" ]]; then
+
+    #@es Ejecuta el script con Python.
+    #@en Run the script with Python.
+    python3 ${SCRIPT_RUN} "$@"
+
+  #@es Si el script tiene la extensión `pl`.
+  #@en If the script has the extension `pl`.
+  elif [[ "$SCRIPT_RUN" == *".pl" ]]; then
+
+    #@es Ejecuta el script con Perl.
+    #@en Run the script with Perl.
+    perl ${SCRIPT_RUN} "$@"
+
+  else
+
+    #@es Ejecuta el script con Bash.
+    #@en Run the script with Bash.
+    source ${SCRIPT_RUN} "$@"
+
+  fi
 
 else
 
