@@ -41,4 +41,18 @@ elif [ $# -eq 3 ] && [ ${2} == "npm" ]; then
 
   fi
 
+#@es Si tiene 4 argumentos y el segundo es `code` y el tercero `extensions`.
+#@en If it has 4 argumentsand the second is `code` and the third is `extensions`.
+elif [ $# -eq 4 ] && [ ${2} == "code" ] && [ ${3} == "extensions" ]; then
+
+  #@es El archivo `what` del comando existe.
+  #@en The `what` file of the command exists.
+  if [[ -f "${LOOM_COMMANDS}/code/extensions/${4}/what.sh" ]]; then
+
+    #@es Ejecuta el script `what` del comando.
+    #@en Execute the `what` script of the command.
+    source ${LOOM_COMMANDS}/code/extensions/${4}/what.sh
+
+  fi
+
 fi

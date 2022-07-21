@@ -7,12 +7,12 @@ if [ $# -eq 2 ]; then
 
   #@es Cambia Node.js con `n` a la version indicada.
   #@en Change Node.js with `n` to the indicated version.
-  sudo n ${2}
+  sudo npx -g n ${2}
 
 else
 
   #@es Cambia a la version `lts` de Node.js con `n`.
   #@en Switch to the `lts` version of Node.js with `n`.
-  sudo n lts
+  sudo npx -g n lts
 
 fi

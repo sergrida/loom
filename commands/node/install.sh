@@ -1,3 +1,3 @@
-#@es Instala el entorno de ejecución Node.js.
-#@en Install the Node.js runtime environment.
+#@es Instala Node.js.
+#@en Install Node.js .
 sudo apt -y install nodejs
