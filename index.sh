@@ -86,11 +86,19 @@ if [ -f ${SCRIPT_RUN} ]; then
     #@en Run the script with Perl.
     perl ${SCRIPT_RUN} "$@"
 
-  else
+  #@es Si el script tiene la extensión `sh`.
+  #@en If the script has the extension `sh`.
+  elif [[ "$SCRIPT_RUN" == *".sh" ]]; then
 
     #@es Ejecuta el script con Bash.
     #@en Run the script with Bash.
     source ${SCRIPT_RUN} "$@"
+
+  else
+
+    #@es Ejecuta el programa.
+    #@en Run the program.
+    ${SCRIPT_RUN} "$@"
 
   fi
 
