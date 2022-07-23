@@ -1,7 +1,9 @@
 [
   {
-    "name": "Sergio Ridaura Garcia",
-    "alias": "sergrida",
+    "name": "Sergio",
+    "surname": "Ridaura Garcia",
+    "username": "sergrida",
+    "email": "sergio.ridaura.garcia@gmail.com",
     "roles": [
       "developer"
     ]
