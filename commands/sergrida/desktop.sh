@@ -36,4 +36,4 @@ source ${LOOM_COMMANDS}/gimp/install.sh
 source ${LOOM_COMMANDS}/inkscape/install.sh
 source ${LOOM_COMMANDS}/blender/install.sh
 source ${LOOM_COMMANDS}/transmission/install.sh
-dconf load / < ${LOOM_COMMANDS}/sergrida/files/dconf-settings.ini
+dconf load / < ${LOOM_COMMANDS}/sergrida/files/dconf_settings.ini
