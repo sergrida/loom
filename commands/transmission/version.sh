@@ -1,3 +1,3 @@
-#@es Versión de Transmission.
-#@en Transmission version.
+# Versión de Transmission.
+# Transmission version.
 transmission --version

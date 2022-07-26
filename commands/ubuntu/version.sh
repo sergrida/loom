@@ -1,3 +1,3 @@
-#@es Versión de Ubuntu.
-#@en Ubuntu version.
+# Versión de Ubuntu.
+# Ubuntu version.
 lsb_release -a

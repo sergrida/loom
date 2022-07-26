@@ -1,3 +1,3 @@
-#@es Ayuda de Fail2ban.
-#@en Fail2ban help.
+# Ayuda de Fail2ban.
+# Fail2ban help.
 fail2ban-server --help

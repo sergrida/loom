@@ -1,3 +1,3 @@
-#@es Instala OpenSSH.
-#@en Install OpenSSH.
+# Instala OpenSSH.
+# Install OpenSSH.
 sudo apt install -y openssh-server

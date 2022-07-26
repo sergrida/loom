@@ -1,3 +1,3 @@
-#@es Instala Kazam.
-#@en Install Kazam.
+# Instala Kazam.
+# Install Kazam.
 kazam --version

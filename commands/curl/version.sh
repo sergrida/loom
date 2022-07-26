@@ -1,3 +1,3 @@
-#@es Versión de cURL.
-#@en cURL version.
+# Versión de cURL.
+# cURL version.
 curl --version

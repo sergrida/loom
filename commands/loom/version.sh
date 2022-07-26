@@ -1,3 +1,3 @@
-#@es Versión de LOOM.
-#@en LOOM version.
+# Versión de LOOM.
+# LOOM version.
 echo ${LOOM_VERSION}

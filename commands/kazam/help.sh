@@ -1,3 +1,3 @@
-#@es Ayuda de Kazam.
-#@en Kazam help.
+# Ayuda de Kazam.
+# Kazam help.
 kazam --help

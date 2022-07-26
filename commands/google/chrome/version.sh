@@ -1,3 +1,3 @@
-#@es Versión de Google Chorme.
-#@en Google Chorme version.
+# Versión de Google Chorme.
+# Google Chorme version.
 google-chrome --version

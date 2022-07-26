@@ -1,3 +1,3 @@
-#@es Versión de Perl.
-#@en Perl version.
+# Versión de Perl.
+# Perl version.
 perl --version

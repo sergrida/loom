@@ -1,3 +1,3 @@
-#@es Ayuda de cURL.
-#@en cURL help.
+# Ayuda de cURL.
+# cURL help.
 curl --help

@@ -1,3 +1,2 @@
-#@es Instala Blender.
-#@en Install Blender.
+# Instala Blender.
 sudo apt install -y blender

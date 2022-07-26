@@ -1,3 +1,3 @@
-#@es Ayuda de Python.
-#@en Python help.
+# Ayuda de Python.
+# Python help.
 python3 --help

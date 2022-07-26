@@ -1,3 +1,3 @@
-#@es Ayuda de Nginx.
-#@en Nginx help.
+# Ayuda de Nginx.
+# Nginx help.
 nginx --help

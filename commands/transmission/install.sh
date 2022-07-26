@@ -1,3 +1,3 @@
-#@es s Instala Transmission.
-#@en Install Transmission.
+# s Instala Transmission.
+# Install Transmission.
 sudo apt install -y transmission

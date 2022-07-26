@@ -1,3 +1,3 @@
-#@es Ayuda de Inkscape.
-#@en Inkscape help.
+# Ayuda de Inkscape.
+# Inkscape help.
 inkscape --help

@@ -1,3 +1,3 @@
-#@es Versión de Nginx.
-#@en Nginx version.
+# Versión de Nginx.
+# Nginx version.
 nginx --version

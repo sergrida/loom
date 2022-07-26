@@ -1,20 +1,15 @@
-//@es `Hola Mundo` en C.
-//@en `Hello World` in C.
+// `Hola Mundo` en C.
 
-//@es Incluye librería para imprimir en pantalla.
-//@en Includes library to print on screen.
+// Incluye librería para imprimir en pantalla.
 #include <stdio.h>
 
-//@es Función principal.
-//@en Principal function.
+// Función principal.
 int main()
 {
 
-  //@es Imprime en pantalla `Hello World! in C`.
-  //@en Prints `Hello World! in C`. 
+  // Imprime en pantalla `Hello World! in C`.
   printf("Hello World! in C\n");
 
-  //@es Salida de función.
-  //@en Function output.
+  // Salida de función.
   return 0;
 }

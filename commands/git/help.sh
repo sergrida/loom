@@ -1,3 +1,3 @@
-#@es Ayuda de Git.
-#@en Git help.
+# Ayuda de Git.
+# Git help.
 git --help

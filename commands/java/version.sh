@@ -1,3 +1,3 @@
-#@es Versión de Java.
-#@en Java version.
+# Versión de Java.
+# Java version.
 java --version

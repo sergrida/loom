@@ -1,3 +1,3 @@
-#@es Ayuda de Firefox.
-#@en Firefox help.
+# Ayuda de Firefox.
+# Firefox help.
 firefox --help

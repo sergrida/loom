@@ -1,3 +1,3 @@
-#@es Ayuda de Gimp.
-#@en Gimp help.
+# Ayuda de Gimp.
+# Gimp help.
 gimp --help

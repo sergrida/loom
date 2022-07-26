@@ -1,3 +1,3 @@
-#@es Instala Gimp.
-#@en Install Gimp.
+# Instala Gimp.
+# Install Gimp.
 sudo apt install -y gimp

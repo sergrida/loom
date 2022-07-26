@@ -1,3 +1,3 @@
-#@es Versión de Python.
-#@en Python version.
+# Versión de Python.
+# Python version.
 python3 --version

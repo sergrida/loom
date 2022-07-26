@@ -1,3 +1,3 @@
-#@es Versión de tmux.
-#@en tmux version.
+# Versión de tmux.
+# tmux version.
 tmux -V

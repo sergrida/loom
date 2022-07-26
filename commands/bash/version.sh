@@ -1,3 +1,2 @@
-#@es Versión de Bash.
-#@en Bash version.
+# Versión de Bash.
 bash --version

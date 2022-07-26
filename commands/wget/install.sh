@@ -1,3 +1,3 @@
-#@es Instala Wget.
-#@en Install Wget.
+# Instala Wget.
+# Install Wget.
 sudo apt install -y wget

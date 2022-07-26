@@ -1,5 +1,5 @@
-#@es Instala Visual Studio Code.
-#@en Install Visual Studio Code.
+# Instala Visual Studio Code.
+# Install Visual Studio Code.
 sudo apt install -y wget gpg apt-transport-https
 wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
 sudo install -o root -g root -m 644 packages.microsoft.gpg /etc/apt/trusted.gpg.d/

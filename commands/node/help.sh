@@ -1,3 +1,3 @@
-#@es Ayuda de Node.js.
-#@en Nose.js help.
+# Ayuda de Node.js.
+# Nose.js help.
 node --help

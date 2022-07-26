@@ -1,3 +1,3 @@
-#@es Ayuda de Transmission.
-#@en Transmission help.
+# Ayuda de Transmission.
+# Transmission help.
 transmission --help

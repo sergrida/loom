@@ -1,3 +1,3 @@
-#@es Versión de Firefox.
-#@en Firefox version.
+# Versión de Firefox.
+# Firefox version.
 firefox --version

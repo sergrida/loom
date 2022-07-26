@@ -1,3 +1,3 @@
-#@es Versión de Rar.
-#@en Rar version.
+# Versión de Rar.
+# Rar version.
 rar --version

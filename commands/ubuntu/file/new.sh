@@ -1,3 +1,3 @@
-#@es Nuevo archivo.
-#@en New file.
+# Nuevo archivo.
+# New file.
 touch ${PWD}/${2}

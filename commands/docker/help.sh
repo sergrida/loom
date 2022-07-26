@@ -1,3 +1,3 @@
-#@es Ayuda de Docker.
-#@en Docker help.
+# Ayuda de Docker.
+# Docker help.
 docker --help

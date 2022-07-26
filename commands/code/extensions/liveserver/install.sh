@@ -1,3 +1,3 @@
-#@es Instala Live Server.
-#@en Install Live Server.
+# Instala Live Server.
+# Install Live Server.
 code --install-extension ritwickdey.liveserver

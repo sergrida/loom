@@ -1,3 +1,3 @@
-#@es Versión de Docker.
-#@en Docker version.
+# Versión de Docker.
+# Docker version.
 docker --version

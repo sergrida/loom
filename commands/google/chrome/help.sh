@@ -1,3 +1,3 @@
-#@es Ayuda de Google Chorme.
-#@en Google Chorme help.
+# Ayuda de Google Chorme.
+# Google Chorme help.
 google-chrome --help

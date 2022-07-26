@@ -1,3 +1,3 @@
-#@es Instala Git.
-#@en Install Git.
+# Instala Git.
+# Install Git.
 sudo apt install -y git

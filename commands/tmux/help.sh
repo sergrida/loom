@@ -1,3 +1,3 @@
-#@es Ayuda de tmux.
-#@en tmux help.
+# Ayuda de tmux.
+# tmux help.
 tmux --help

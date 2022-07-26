@@ -1,3 +1,3 @@
-#@es Instala Inkscape.
-#@en Install Inkscape.
+# Instala Inkscape.
+# Install Inkscape.
 sudo apt install -y inkscape

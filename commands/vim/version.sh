@@ -1,3 +1,3 @@
-#@es Versión de Vim.
-#@en Vim version.
+# Versión de Vim.
+# Vim version.
 vim --version

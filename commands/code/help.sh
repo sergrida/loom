@@ -1,3 +1,3 @@
-#@es Ayuda de Visual Studio Code.
-#@en Visual Studio Code help.
+# Ayuda de Visual Studio Code.
+# Visual Studio Code help.
 code --help

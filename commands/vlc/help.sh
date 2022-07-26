@@ -1,3 +1,3 @@
-#@es Ayuda de VLC media player.
-#@en VLC media player help.
+# Ayuda de VLC media player.
+# VLC media player help.
 vlc --help

@@ -1,3 +1,3 @@
-#@es Ayuda de Dconf.
-#@en Dconf help.
+# Ayuda de Dconf.
+# Dconf help.
 dconf --help

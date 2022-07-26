@@ -1,3 +1,3 @@
-#@es Instala Dconf editor.
-#@en Install Dconf editor.
+# Instala Dconf editor.
+# Install Dconf editor.
 sudo apt install -y dconf-editor

@@ -1,3 +1,3 @@
-#@es Versión de npm.
-#@en npm version.
+# Versión de npm.
+# npm version.
 npm --version

@@ -1,3 +1,3 @@
-#@es Instala npm.
-#@en Install npm.
+# Instala npm.
+# Install npm.
 sudo apt -y install npm

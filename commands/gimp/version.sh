@@ -1,3 +1,3 @@
-#@es Versión de Gimp.
-#@en Gimp version.
+# Versión de Gimp.
+# Gimp version.
 gimp --version

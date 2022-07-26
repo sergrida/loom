@@ -1,4 +1,4 @@
-#@es Instala LibreOffice.
-#@en Install LibreOffice.
+# Instala LibreOffice.
+# Install LibreOffice.
 sudo add-apt-repository -y ppa:libreoffice/ppa
 sudo apt install -y libreoffice

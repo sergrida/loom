@@ -1,3 +1,3 @@
-#@es Versión de Kazam.
-#@en Kazam version.
+# Versión de Kazam.
+# Kazam version.
 sudo apt install -y kazam

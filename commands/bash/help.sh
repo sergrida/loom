@@ -1,3 +1,2 @@
-#@es Ayuda de Bash.
-#@en Bash help.
+# Ayuda de Bash.
 bash --help

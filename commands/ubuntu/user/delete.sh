@@ -1,3 +1,3 @@
-#@es Borra usuario.
-#@en Delete user.
+# Borra usuario.
+# Delete user.
 sudo deluser ${2}

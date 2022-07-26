@@ -1,3 +1,3 @@
-#@es Versión de Wget.
-#@en Wget version.
+# Versión de Wget.
+# Wget version.
 wget --version

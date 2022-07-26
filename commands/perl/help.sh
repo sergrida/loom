@@ -1,3 +1,3 @@
-#@es Ayuda de Perl.
-#@en Perl help.
+# Ayuda de Perl.
+# Perl help.
 perl --help

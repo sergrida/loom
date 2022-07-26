@@ -1,3 +1,2 @@
-#@es Versión de Blender.
-#@en Blender version.
+# Versión de Blender.
 blender --version

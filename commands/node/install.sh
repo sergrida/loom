@@ -1,3 +1,3 @@
-#@es Instala Node.js.
-#@en Install Node.js .
+# Instala Node.js.
+# Install Node.js .
 sudo apt -y install nodejs

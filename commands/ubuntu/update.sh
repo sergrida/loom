@@ -1,5 +1,5 @@
-#@es Actualiza el sistema operativo de Ubuntu
-#@en Update the operating system Ubuntu.
+# Actualiza el sistema operativo de Ubuntu
+# Update the operating system Ubuntu.
 sudo apt update
 sudo apt upgrade -y
 sudo apt autoclean

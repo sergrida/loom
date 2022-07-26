@@ -1,3 +1,3 @@
-#@es Versión de Git.
-#@en Git version.
+# Versión de Git.
+# Git version.
 git --version

@@ -1,3 +1,2 @@
-#@es Ayuda de Blender.
-#@en Blender help.
+# Ayuda de Blender.
 blender --help
