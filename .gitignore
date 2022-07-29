@@ -1,5 +1,4 @@
 # Sistema operativo.
-# Operating systems.
 Thumbs.db
 desktop.ini
 .DS_Store
@@ -8,12 +7,10 @@ desktop.ini
 ._*
 
 # Editores.
-# Editors.
 .idea
 .vscode
 rest-client.env.json
 
-# LOOM.
 # LOOM.
 .env
 /temp/*

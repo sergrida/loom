@@ -1,0 +1,26 @@
+#@es
+
+#@en
+If the `.env` file exists.
+Read variables from `.env` file.
+Read variables from `default.env` file.
+`LOOM_RUN` array. With the first argument, cut off for every `.` it has.
+Variable with the address of the LOOM application's `commands` folder.
+Run each element of the `LOOM_RUN` array.
+Executes for each element in the address.
+List the items or folders in the address.
+If the file or folder has the abbreviation at the beginning.
+Adds the array element `SEARCH`.
+Stops the loop.
+Remove unneeded variables.
+If the address file exists.
+If the script has the extension `js`.
+Run the script with Node.js.
+If the script has the extension `py`.
+Run the script with Python.
+If the script has the extension `pl`.
+Run the script with Perl.
+If the script has the extension `sh`.
+Run the script with Bash.
+Run the program.
+Write to the screen `LOOM can't find the script`.

@@ -1,0 +1,15 @@
+#@es
+
+#@en
+What is the command.
+If it has 2 arguments.
+The `what` file of the command exists.
+Execute the `what` script of the command.
+What is the application indicated.
+If it has 3 arguments and argument 2 is `npm`.
+The `what` file of the command exists.
+Execute the `what` script of the command.
+What is the application indicated.
+If it has 4 argumentsand the second is `code` and the third is `extensions`.
+The `what` file of the command exists.
+Execute the `what` script of the command.

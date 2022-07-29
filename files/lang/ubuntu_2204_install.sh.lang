@@ -1,0 +1,11 @@
+#@es
+
+#@en
+Configure the system for LOOM to work on Ubuntu 22.04.
+Update the Ubuntu operating system.
+There is no `LOOM` text in the `.bashrc` file.
+Write an empty line to the `.bashrc` file.
+Write a comment to the `.bashrc` file.
+Write a global variable with the address of LOOM to the `.bashrc` file.
+Write the address of the `.bashrc` file to read and execute its contents.
+Copy the `default.env` file with the name `.env`, use the new file to enter your personal settings.

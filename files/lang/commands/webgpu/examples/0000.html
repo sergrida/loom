@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>0000</title>
+</head>
+
+<body>
+  <h1>Check WebGPU</h1>
+  <h2 id="webgpu-check" style="color: red;">Your browser does not support WebGPU.</h2>
+
+  <script>
+    if ("gpu" in navigator) {
+      document.getElementById("webgpu-check").textContent = "Your browser supports WebGPU.";
+      document.getElementById("webgpu-check").style.color = "green";
+    }
+  </script>
+
+</body>
+
+</html>

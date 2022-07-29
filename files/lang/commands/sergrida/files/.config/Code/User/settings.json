@@ -1,0 +1,16 @@
+{
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.suggestSelection": "first",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.startupEditor": "none",
+  "cSpell.language": "es-es",
+  "markdown-preview-enhanced.previewTheme": "github-dark.css",
+  "cSpell.enableFiletypes": [
+    "shellscript",
+    "javascript",
+    "json"
+  ],
+}
