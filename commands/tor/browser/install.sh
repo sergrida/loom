@@ -1,4 +1,3 @@
-# Instala Tor Browser.
 # Install Tor Browser.
 sudo apt install -y flatpak
 sudo apt install gnome-software-plugin-flatpak
