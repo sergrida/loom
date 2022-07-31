@@ -1,14 +1,14 @@
-# Exporta configuración de GNOME.
+# Export GNOME configuration.
 
-# Tiene 2 argumentos.
+# It has 2 arguments.
 if [ $# -eq 2 ]; then
 
-  # Indicando el nombre del archivo.
+  # Indicating the name of the file.
   dconf dump / > ${2}
 
 else
 
-  # En la carpeta por defecto.
+  # In the default folder.
   dconf dump / > ${LOOM_FOLDER}/temp/dconf-settings.ini
 
 fi

@@ -1,2 +1,2 @@
-# Ayuda de Visual Studio Code.
+# Visual Studio Code Help.
 code --help

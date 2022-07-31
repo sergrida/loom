@@ -1,2 +1,2 @@
-# Ayuda de cURL.
+# cURL Help.
 curl --help
