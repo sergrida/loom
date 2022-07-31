@@ -1,3 +1,2 @@
-#es Instala Diodon.
-#en Install Diodon.
+# Instala Diodon.
 sudo apt install -y diodon

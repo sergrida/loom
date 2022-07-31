@@ -1,4 +1,4 @@
-# Sistema operativo.
+# Operating system.
 Thumbs.db
 desktop.ini
 .DS_Store
@@ -6,7 +6,7 @@ desktop.ini
 .Trashes
 ._*
 
-# Editores.
+# Editors.
 .idea
 .vscode
 rest-client.env.json

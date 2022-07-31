@@ -1,1 +1,0 @@
-sudo npm --location=global update

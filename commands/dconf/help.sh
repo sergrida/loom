@@ -1,2 +1,2 @@
-# Dconf help.
+# Ayuda de Dconf.
 dconf --help
