@@ -1,4 +1,3 @@
-#es Instala Docker Compose.
 # Install Docker Compose.
 sudo apt install -y curl
 mkdir -p ~/.docker/cli-plugins/

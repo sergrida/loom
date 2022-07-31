@@ -1,3 +1,2 @@
-# Instala Kazam.
-# Install Kazam.
+# Kazam version.
 kazam --version
