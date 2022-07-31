@@ -46,6 +46,8 @@ done
 # Remove unnecessary variables.
 unset SEARCH, SCRIPT
 
+echo "${SCRIPT_RUN}"
+
 # If the address file exists.
 if [ -f ${SCRIPT_RUN} ]; then
 
