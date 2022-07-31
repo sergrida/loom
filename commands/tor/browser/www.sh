@@ -1,4 +1,3 @@
-# Tor Browser en la World Wide Web.
 # Tor Browser on the World Wide Web.
 echo "official website     - https://torproject.org/download"
 echo "repository           - https://gitweb.torproject.org/tor-browser.git/"
