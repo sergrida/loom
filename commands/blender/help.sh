@@ -1,2 +1,2 @@
-# Ayuda de Blender.
+# Blender Help.
 blender --help
