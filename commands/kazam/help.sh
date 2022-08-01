@@ -1,2 +1,0 @@
-# Kazam help.
-kazam --help

@@ -1,2 +1,0 @@
-# LibreOffice help.
-libreoffice --help

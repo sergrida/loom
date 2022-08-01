@@ -1,2 +1,0 @@
-# Perl help.
-perl --help

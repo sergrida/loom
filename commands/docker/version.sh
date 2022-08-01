@@ -1,2 +1,0 @@
-# Docker version.
-docker --version

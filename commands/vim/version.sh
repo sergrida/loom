@@ -1,2 +1,0 @@
-# Vim version.
-vim --version

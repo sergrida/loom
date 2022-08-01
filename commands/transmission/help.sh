@@ -1,2 +1,0 @@
-# Transmission help.
-transmission --help

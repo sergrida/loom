@@ -1,2 +1,0 @@
-# cURL version.
-curl --version

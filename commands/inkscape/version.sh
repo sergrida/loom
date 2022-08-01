@@ -1,2 +1,0 @@
-# Inkscape version.
-inkscape --version

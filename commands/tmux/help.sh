@@ -1,2 +1,0 @@
-# tmux help.
-tmux --help

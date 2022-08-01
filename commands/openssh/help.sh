@@ -1,2 +1,0 @@
-# OpenSSH help.
-openssh --help

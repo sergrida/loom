@@ -1,2 +1,0 @@
-# Java version.
-java --version

@@ -1,2 +1,0 @@
-# Blender Help.
-blender --help

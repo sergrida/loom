@@ -1,2 +1,0 @@
-# Rar help.
-rar --help

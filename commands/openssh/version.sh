@@ -1,2 +1,0 @@
-# OpenSSH version.
-openssh --version

@@ -1,2 +1,0 @@
-# Java help.
-java --help

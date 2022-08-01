@@ -1,2 +1,0 @@
-# Wget version.
-wget --version

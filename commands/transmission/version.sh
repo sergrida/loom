@@ -1,2 +1,0 @@
-# Transmission version.
-transmission --version

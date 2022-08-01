@@ -1,2 +1,0 @@
-# Dconf Help.
-dconf --help

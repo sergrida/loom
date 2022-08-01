@@ -1,2 +1,0 @@
-# Bash help.
-bash --help

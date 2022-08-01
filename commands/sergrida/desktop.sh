@@ -1,38 +1,38 @@
 # Install apps and configure to use on my desktop.
 
-source ${LOOM_COMMANDS}/ubuntu/update.sh
-source ${LOOM_COMMANDS}/build-essential/install.sh
-source ${LOOM_COMMANDS}/wget/install.sh
-source ${LOOM_COMMANDS}/curl/install.sh
-source ${LOOM_COMMANDS}/python/install.sh
-source ${LOOM_COMMANDS}/openssh/install.sh
-source ${LOOM_COMMANDS}/fail2ban/install.sh
-source ${LOOM_COMMANDS}/rar/install.sh
-source ${LOOM_COMMANDS}/p7zip/install.sh
-source ${LOOM_COMMANDS}/git/install.sh
-source ${LOOM_COMMANDS}/git/config/global.sh
-source ${LOOM_COMMANDS}/vim/install.sh
-source ${LOOM_COMMANDS}/tmux/install.sh
-source ${LOOM_COMMANDS}/node/install.sh
-source ${LOOM_COMMANDS}/npm/install.sh
-source ${LOOM_COMMANDS}/npm/n/install.sh
-source ${LOOM_COMMANDS}/npm/n/version/change.sh
-source ${LOOM_COMMANDS}/docker/install.sh
-source ${LOOM_COMMANDS}/docker/compose/install.sh
-source ${LOOM_COMMANDS}/google/chrome/install.sh
-source ${LOOM_COMMANDS}/code/install.sh
-source ${LOOM_COMMANDS}/code/extensions/vscode-language-pack-es/install.sh
-source ${LOOM_COMMANDS}/code/extensions/code-spell-checker/install.sh
-source ${LOOM_COMMANDS}/code/extensions/code-spell-checker-spanish/install.sh
-source ${LOOM_COMMANDS}/code/extensions/markdown-preview-enhanced/install.sh
+${LOOM} ubuntu.update
+${LOOM} install gcc
+${LOOM} install wget
+${LOOM} install curl
+${LOOM} install python3
+${LOOM} install openssh
+${LOOM} install fail2ban
+${LOOM} install rar
+${LOOM} install p7zip
+${LOOM} install git
+${LOOM} git.config.global
+${LOOM} install vim
+${LOOM} install tmux
+${LOOM} install node.js
+${LOOM} install npm
+${LOOM} npm.n.install
+${LOOM} npm.n.version.change
+${LOOM} install docker
+${LOOM} docker.compose.install
+${LOOM} google.chrome.install
+${LOOM} install code
+${LOOM} code.extensions.vscode-language-pack-es.install
+${LOOM} code.extensions.code-spell-checker.install
+${LOOM} code.extensions.code-spell-checker-spanish.install
+${LOOM} code.extensions.markdown-preview-enhanced.install
 cp ${LOOM_COMMANDS}/sergrida/files/.config/Code/User/settings.json ~/.config/Code/User/settings.json
-source ${LOOM_COMMANDS}/diodon/install.sh
-source ${LOOM_COMMANDS}/libreoffice/install.sh
-source ${LOOM_COMMANDS}/libreoffice/lang/es.sh
-source ${LOOM_COMMANDS}/vlc/install.sh
-source ${LOOM_COMMANDS}/kazam/install.sh
-source ${LOOM_COMMANDS}/gimp/install.sh
-source ${LOOM_COMMANDS}/inkscape/install.sh
-source ${LOOM_COMMANDS}/blender/install.sh
-source ${LOOM_COMMANDS}/transmission/install.sh
-dconf load / < ${LOOM_COMMANDS}/sergrida/files/dconf_settings.ini
+${LOOM} install diodon
+${LOOM} install libreoffice
+${LOOM} libreoffice.lang.es
+${LOOM} install vlc
+${LOOM} install kazam
+${LOOM} install gimp
+${LOOM} install inkscape
+${LOOM} install blender
+${LOOM} install transmission
+${LOOM} dfconf.import ${LOOM_COMMANDS}/sergrida/files/dconf_settings.ini

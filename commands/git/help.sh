@@ -1,2 +1,0 @@
-# Git help.
-git --help

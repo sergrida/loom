@@ -1,2 +1,0 @@
-# Rar version.
-rar --version

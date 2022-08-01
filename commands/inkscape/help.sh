@@ -1,2 +1,0 @@
-# Inkscape help.
-inkscape --help

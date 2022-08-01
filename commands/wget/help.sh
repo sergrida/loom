@@ -1,2 +1,0 @@
-# Wget help.
-wget --help

@@ -1,2 +1,0 @@
-# Firefox version.
-firefox --version

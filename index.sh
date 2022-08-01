@@ -44,9 +44,7 @@ for (( I = 0; I < ${#SEARCH[@]}; I ++ )); do
 done
 
 # Remove unnecessary variables.
-unset SEARCH, SCRIPT
-
-echo "${SCRIPT_RUN}"
+unset SCRIPT
 
 # If the address file exists.
 if [ -f ${SCRIPT_RUN} ]; then
@@ -84,7 +82,57 @@ if [ -f ${SCRIPT_RUN} ]; then
 
 else
 
-  # Writes to the screen `I can't find the script.`.
-  printf "\033[0;31mLOOM: I can't find the script.\033[0m\n"
+  # The Script Folder exists.
+  if [ -d ${SCRIPT_RUN} ]; then
+
+    # The search includes the abbreviation for `help`.
+    if [[ "help" == "${SEARCH[1]}"* ]]; then
+
+      # Execute LOOM's `help` command with the search.
+      ${LOOM} help $(basename ${SCRIPT_RUN})
+
+    # The search includes the abbreviation for `info`.
+    elif [[ "info" == "${SEARCH[1]}"* ]]; then
+
+      # Execute LOOM's `info` command with the search.
+      ${LOOM} info $(basename ${SCRIPT_RUN})
+
+    # The search includes the abbreviation for `install`.
+    elif [[ "install" == "${SEARCH[1]}"* ]]; then
+
+      # Execute LOOM's `install` command with the search.
+      ${LOOM} install $(basename ${SCRIPT_RUN})
+
+    # The search includes the abbreviation for `version`.
+    elif [[ "version" == "${SEARCH[1]}"* ]]; then
+
+      # Execute LOOM's `version` command with the search.
+      ${LOOM} version $(basename ${SCRIPT_RUN})
+
+    # The search includes the abbreviation for `whatis`.
+    elif [[ "whatis" == "${SEARCH[1]}"* ]]; then
+
+      # Execute LOOM's `whatis` command with the search.
+      ${LOOM} whatis $(basename ${SCRIPT_RUN})
+
+    # The search includes the abbreviation for `where`.
+    elif [[ "where" == "${SEARCH[1]}"* ]]; then
+
+      # Execute LOOM's `where` command with the search.
+      ${LOOM} where $(basename ${SCRIPT_RUN})
+
+    else
+
+      # Writes to the screen `I can't find the script.`.
+      printf "\033[0;31mLOOM: I can't find the script.\033[0m\n"
+
+    fi
+
+  else
+
+    # Writes to the screen `I can't find the script.`.
+    printf "\033[0;31mLOOM: I can't find the script.\033[0m\n"
+  
+  fi
 
 fi

@@ -1,2 +1,0 @@
-# Gimp help.
-gimp --help

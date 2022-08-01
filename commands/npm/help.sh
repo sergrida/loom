@@ -1,2 +1,0 @@
-#npm help.
-npm --help

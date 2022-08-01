@@ -1,2 +1,0 @@
-# Firefox help.
-firefox --help

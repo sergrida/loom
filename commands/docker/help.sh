@@ -1,2 +1,0 @@
-# Docker help.
-docker --help

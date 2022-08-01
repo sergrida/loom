@@ -1,2 +1,0 @@
-# Perl version.
-perl --version

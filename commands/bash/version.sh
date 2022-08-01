@@ -1,2 +1,0 @@
-# Bash version.
-bash --version

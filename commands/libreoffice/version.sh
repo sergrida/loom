@@ -1,2 +1,0 @@
-# LibreOffice version.
-libreoffice --version

@@ -1,2 +1,0 @@
-# Blender version.
-blender --version

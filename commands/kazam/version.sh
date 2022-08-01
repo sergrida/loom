@@ -1,2 +1,0 @@
-# Kazam version.
-kazam --version

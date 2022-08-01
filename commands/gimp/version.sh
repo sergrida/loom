@@ -1,2 +1,0 @@
-# Gimp version.
-gimp --version
