@@ -9,6 +9,6 @@ if [ $# -eq 2 ]; then
 else
 
   # In the default folder.
-  dconf load / < ${LOOM_FOLDER}/temp/dconf-settings.ini
+  dconf load / < ${LOOM_FOLDER}/temp/dconf_settings.ini
 
 fi

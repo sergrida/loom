@@ -9,6 +9,6 @@ if [ $# -eq 2 ]; then
 else
 
   # In the default folder.
-  dconf dump / > ${LOOM_FOLDER}/temp/dconf-settings.ini
+  dconf dump / > ${LOOM_FOLDER}/temp/dconf_settings.ini
 
 fi

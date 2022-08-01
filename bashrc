@@ -7,6 +7,8 @@ export LOOM="${LOOM_FOLDER}/./index.sh"
 alias loom="${LOOM_FOLDER}/./index.sh"
 alias ł="${LOOM_FOLDER}/./index.sh"
 
+alias u="${LOOM} u.u"
+
 alias ..='cd ..'
 alias ...='cd ../../../'
 alias c='clear'
