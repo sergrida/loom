@@ -16,8 +16,8 @@ fi
 # `LOOM_RUN` array. With the first argument cut off for every `.` it has.
 SEARCH=(${1//./ })
 
-# Variable with the address of the LOOM application's `commands` folder.
-SCRIPT_RUN=${LOOM_COMMANDS}
+# Variable with the address of the LOOM application's `collections` folder.
+SCRIPT_RUN=${LOOM_COLLECTIONS}
 
 # Run each element of the `LOOM_RUN` array.
 for (( I = 0; I < ${#SEARCH[@]}; I ++ )); do

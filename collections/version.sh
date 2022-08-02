@@ -4,10 +4,10 @@
 if [ $# -eq 2 ]; then
 
   # The command's `version` file exists.
-  if [[ -f "${LOOM_COMMANDS}/${2}/version.sh" ]]; then
+  if [[ -f "${LOOM_COLLECTIONS}/${2}/version.sh" ]]; then
 
     # Execute the `version` script of the command.
-    source ${LOOM_COMMANDS}/${2}/version.sh
+    source ${LOOM_COLLECTIONS}/${2}/version.sh
 
   else
 

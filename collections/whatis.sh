@@ -4,10 +4,10 @@
 if [ $# -eq 2 ]; then
 
   # The command's `what` file exists.
-  if [[ -f "${LOOM_COMMANDS}/${2}/what.sh" ]]; then
+  if [[ -f "${LOOM_COLLECTIONS}/${2}/what.sh" ]]; then
 
     # Execute the `what` script of the command.
-    source ${LOOM_COMMANDS}/${2}/what.sh
+    source ${LOOM_COLLECTIONS}/${2}/what.sh
 
   else
 
@@ -20,10 +20,10 @@ if [ $# -eq 2 ]; then
 elif [ $# -eq 3 ] && [ ${2} == "npm" ]; then
 
   # The command's `what` file exists.
-  if [[ -f "${LOOM_COMMANDS}/npm/${3}/what.sh" ]]; then
+  if [[ -f "${LOOM_COLLECTIONS}/npm/${3}/what.sh" ]]; then
 
     # Execute the `what` script of the command.
-    source ${LOOM_COMMANDS}/npm/${3}/what.sh
+    source ${LOOM_COLLECTIONS}/npm/${3}/what.sh
 
   else
 
@@ -36,10 +36,10 @@ elif [ $# -eq 3 ] && [ ${2} == "npm" ]; then
 elif [ $# -eq 4 ] && [ ${2} == "code" ] && [ ${3} == "extensions" ]; then
 
   # The command's `what` file exists.
-  if [[ -f "${LOOM_COMMANDS}/code/extensions/${4}/what.sh" ]]; then
+  if [[ -f "${LOOM_COLLECTIONS}/code/extensions/${4}/what.sh" ]]; then
 
     # Execute the `what` script of the command.
-    source ${LOOM_COMMANDS}/code/extensions/${4}/what.sh
+    source ${LOOM_COLLECTIONS}/code/extensions/${4}/what.sh
 
   fi
 

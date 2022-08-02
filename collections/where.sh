@@ -4,10 +4,10 @@
 if [ $# -eq 2 ]; then
 
   # The command `where` file exists.
-  if [[ -f "${LOOM_COMMANDS}/${2}/where.sh" ]]; then
+  if [[ -f "${LOOM_COLLECTIONS}/${2}/where.sh" ]]; then
 
     # Execute the `where` script of the command.
-    source ${LOOM_COMMANDS}/${2}/where.sh
+    source ${LOOM_COLLECTIONS}/${2}/where.sh
 
   else
 

@@ -25,7 +25,7 @@ ${LOOM} code.extensions.vscode_language_pack_es.install
 ${LOOM} code.extensions.code_spell_checker.install
 ${LOOM} code.extensions.code_spell_checker_spanish.install
 ${LOOM} code.extensions.markdown_preview_enhanced.install
-cp ${LOOM_COMMANDS}/sergrida/files/.config/Code/User/settings.json ~/.config/Code/User/settings.json
+cp ${LOOM_COLLECTIONS}/sergrida/files/.config/Code/User/settings.json ~/.config/Code/User/settings.json
 ${LOOM} install diodon
 ${LOOM} install libreoffice
 ${LOOM} libreoffice.lang.es
@@ -35,4 +35,4 @@ ${LOOM} install gimp
 ${LOOM} install inkscape
 ${LOOM} install blender
 ${LOOM} install transmission
-${LOOM} dfconf.import ${LOOM_COMMANDS}/sergrida/files/dconf_settings.ini
+${LOOM} dfconf.import ${LOOM_COLLECTIONS}/sergrida/files/dconf_settings.ini
