@@ -3,14 +3,35 @@
 Tools to do magic on the computer.
 
 Copyright (C) 2022 Sergio Ridaura, sergrida.  
-<https://sergioridaura.com> - <info@sergioridaura.com>
+<https://sergrida.github.io/sergrida/> - <https://github.com/sergrida> - <sergio.ridaura.garcia@gmail.com>
 
----
+## Description
+
+LOOM is a collection of scripts, tools and tutorials that I use in the development of my creations. I create these tools by default with Bash, although I also use scripts from Node.js, Perl, Python and applications written in C.
+
+
+## Install
+
+To install LOOM use the `./ubuntu_2204_install.sh` script. I usually work with the Ubuntu 22.04 LTS operating system, so LOOM is made for this system.
+
+
+## First steps
+
+
+
+## New script
+
+
+
+## Collaboration
+
+You can make suggestions or collaborate by writing to my [email](mailto:sergio.ridaura.garcia@gmail.com) or by participating in the project [issues](https://github.com/sergrida/LOOM/issues) section.
+
 
 ## License
 
 Copyright (C) 2022 Sergio Ridaura, sergrida.  
-<https://sergioridaura.com> - <info@sergioridaura.com>
+<https://sergrida.github.io/sergrida/> - <https://github.com/sergrida> - <sergio.ridaura.garcia@gmail.com>
 
 
 ### GNU General Public License
