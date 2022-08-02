@@ -1,10 +1,16 @@
-# loom
+# LOOM
 
 Tools to do magic on the computer.
+
+Copyright (C) 2022 Sergio Ridaura, sergrida.  
+<https://sergioridaura.com> - <info@sergioridaura.com>
 
 ---
 
 ## License
+
+Copyright (C) 2022 Sergio Ridaura, sergrida.  
+<https://sergioridaura.com> - <info@sergioridaura.com>
 
 
 ### GNU General Public License

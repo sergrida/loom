@@ -9,6 +9,9 @@ alias ł="${LOOM_FOLDER}/./index.sh"
 
 alias u="${LOOM} u.u"
 
-alias ..='cd ..'
+alias .='cd ..'
+alias ..='cd ../../'
 alias ...='cd ../../../'
+alias ....='cd ../../../../'
 alias c='clear'
+alias ll='ls -la'
