@@ -3,7 +3,8 @@
 Tools to do magic on the computer.
 
 Copyright (C) 2022 Sergio Ridaura, sergrida.  
-<https://sergrida.github.io/sergrida/> - <https://github.com/sergrida> - <sergio.ridaura.garcia@gmail.com>
+[Personal page](https://sergrida.github.io/sergrida/) - [GitHub](https://github.com/sergrida) - <sergio.ridaura.garcia@gmail.com>
+
 
 ## Description
 
@@ -19,7 +20,9 @@ To install LOOM use the `./ubuntu_2204_install.sh` script. I usually work with t
 
 
 
+
 ## New script
+
 
 
 
@@ -31,7 +34,7 @@ You can make suggestions or collaborate by writing to my [email](mailto:sergio.r
 ## License
 
 Copyright (C) 2022 Sergio Ridaura, sergrida.  
-<https://sergrida.github.io/sergrida/> - <https://github.com/sergrida> - <sergio.ridaura.garcia@gmail.com>
+[Personal page](https://sergrida.github.io/sergrida/) - [GitHub](https://github.com/sergrida) - <sergio.ridaura.garcia@gmail.com>
 
 
 ### GNU General Public License
