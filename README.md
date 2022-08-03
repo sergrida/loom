@@ -3,12 +3,12 @@
 Tools to do magic on the computer.
 
 Copyright (C) 2022 Sergio Ridaura, sergrida.  
-[Personal page](https://sergrida.github.io/sergrida/) - [GitHub](https://github.com/sergrida) - <sergio.ridaura.garcia@gmail.com>
+[Personal page](https://sergrida.github.io/sergrida/) - <sergio.ridaura.garcia@gmail.com>
 
 
 ## Description
 
-LOOM is a collection of scripts, tools and tutorials that I use in the development of my creations. I create these tools by default with Bash, although I also use scripts from Node.js, Perl, Python and applications written in C.
+LOOM is a collection of scripts, tools and tutorials that I use in my developments. I create these tools by default with Bash, although I also use scripts from Node.js, Perl, Python and applications written in C.
 
 
 ## Install
@@ -18,12 +18,14 @@ To install LOOM use the `./ubuntu_2204_install.sh` script. I usually work with t
 
 ## First steps
 
+To use a LOOM script or application, type in the terminal the command `loom`, followed by the path relative to the `collections` folder of the script to run, ending with the arguments required by the script. For example, to run the script with the address `collections/ubuntu/update.sh` use the command `ł ubuntu/update.sh`.
+
+You can run the command shorthand, using `ł` and the shorthand address. For example, to run the example script above, use the `ł u/u` command.
 
 
+## Information
 
-## New script
-
-
+Each of the scripts details its functionalities and actions it performs. To easily access the document, use the `loom read` command and the script address. For example, to access the script from the previous examples, use the command `ł re u/u`.
 
 
 ## Collaboration
@@ -34,7 +36,7 @@ You can make suggestions or collaborate by writing to my [email](mailto:sergio.r
 ## License
 
 Copyright (C) 2022 Sergio Ridaura, sergrida.  
-[Personal page](https://sergrida.github.io/sergrida/) - [GitHub](https://github.com/sergrida) - <sergio.ridaura.garcia@gmail.com>
+[Personal page](https://sergrida.github.io/sergrida/) - <sergio.ridaura.garcia@gmail.com>
 
 
 ### GNU General Public License
