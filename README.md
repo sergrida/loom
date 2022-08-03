@@ -18,14 +18,14 @@ To install LOOM use the `./ubuntu_2204_install.sh` script. I usually work with t
 
 ## First steps
 
-To use a LOOM script or application, type in the terminal the command `loom`, followed by the path relative to the `collections` folder of the script to run, ending with the arguments required by the script. For example, to run the script with the address `collections/ubuntu/update.sh` use the command `ł ubuntu/update.sh`.
+To use a LOOM script or application, use the `loom` command, followed by the address of the script and any required arguments. The address is relative to the `collections` folder and uses `.` to separate the folders and the script file. For example, to run the script with the address `collections/ubuntu/update.sh` use the command `ł ubuntu.update.sh`.
 
-You can run the command shorthand, using `ł` and the shorthand address. For example, to run the example script above, use the `ł u/u` command.
+You can run the command shorthand, using `ł` and the shorthand address. For example, to run the example script above, use the `ł u.u` command.
 
 
 ## Information
 
-Each of the scripts details its functionalities and actions it performs. To easily access the document, use the `loom read` command and the script address. For example, to access the script from the previous examples, use the command `ł re u/u`.
+Each of the scripts details its functionalities and actions it performs. To easily access the document, use the `loom read` command and the script address. For example, to access the script from the previous examples, use the command `ł re u.u`.
 
 
 ## Collaboration

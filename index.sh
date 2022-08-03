@@ -14,7 +14,7 @@ else
 fi
 
 # `LOOM_RUN` array. With the first argument cut off for every `.` it has.
-SEARCH=(${1//\// })
+SEARCH=(${1//./ })
 
 # Variable with the address of the LOOM application's `collections` folder.
 SCRIPT_RUN=${LOOM_COLLECTIONS}

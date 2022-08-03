@@ -3,8 +3,8 @@
 # If it has 2 arguments.
 if [ $# -eq 2 ]; then
 
-  # `LOOM_RUN` array. With the first argument cut off for every `.` it has.
-  READ_SEARCH=(${1//\// })
+  # `READ_SEARCH` array. With the first argument cut off for every `.` it has.
+  READ_SEARCH=(${1//./ })
 
   # Variable with the address of the LOOM application's `collections` folder.
   READ_SCRIPT_RUN=${LOOM_COLLECTIONS}

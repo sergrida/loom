@@ -24,6 +24,20 @@ alias ...='cd ../../../'
 # 
 alias ....='cd ../../../../'
 # 
+alias g='cd /'
+# 
+alias gw='cd /var/www'
+# 
+alias gu='cd /home/$USER'
+# 
+alias gde='cd /home/$USER/Descargas'
+# 
+alias gdo='cd /home/$USER/Documentos'
+# 
+alias gl='cd ${LOOM_FOLDER}'
+# 
+alias glc='cd ${LOOM_FOLDER}/collections'
+# 
 alias c='clear'
 # 
 alias ll='ls -la'
